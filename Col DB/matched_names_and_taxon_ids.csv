@@ -1,0 +1,729 @@
+Kind,Kind2,Kind3,Kind4,Common Name,Common name2,Common name3,Common Name Common name2 Common name3,Bi or Trinomial Name,Sp Short Name,Kingdom,Phylum,Class,Order,Infraorder,Clade,Sub Order,Superfamily,Family,Sub family,Tribe,Genus,Sub Genus,Species,Sub species 1,Sub Species 2,Prior binomial name,Kind > Kind2 Kind3,"Genus > Species > 
+ > Sub species 1","Common Name
+ > Bi or Trinomial Name",Code1,Code2,Code3,,,,,,,,Original Order,Cleaned Name,Taxon ID,Match Level,Error,dwc:taxonID,Unmatched Names
+Amphibian,Frog,,,Argentine Horned Frog / Ornate Pacman Frog,,,Argentine Horned Frog / Ornate Pacman Frog  ,Ceratophrys ornata,,Animalia,Chordata,Amphibia,Anura,,,,,Ceratophryidae,,,Ceratophrys,,ornata,,,,Amphibian > Frog,Ceratophrys > ornata,"Argentine Horned Frog / Ornate Pacman Frog
+ > Ceratophrys ornata",AMFRO,ORPAC,,,,,,,,,0,ceratophrys ornata,SNTS,species,,SNTS,
+Amphibian,Frog,,,Pacman Frog,,,Pacman Frog  ,Ceratophrys sp*,,Animalia,Chordata,Amphibia,Anura,,,,,Ceratophryidae,,,Ceratophrys,,sp*,,,,Amphibian > Frog,Ceratophrys > sp*,"Pacman Frog
+ > Ceratophrys sp*",AMFRO,PACMA,,,,,,,,,1,ceratophrys sp,3KV4,Genus Matched. Species not found,ceratophrys sp,3KV4,
+Amphibian,Frog,,,Poison Dart Frog - Splash Backed,Splash-Backed Poison Dart Frog,Splash-Backed Poison Dart Frog,Poison Dart Frog - Splash Backed Splash-Backed Poison Dart Frog Splash-Backed Poison Dart Frog,Adelphobates galactonotus,,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Adelphobates ,,galactonotus,,,,Amphibian > Frog,Adelphobates > galactonotus,"Poison Dart Frog - Splash Backed
+ > Adelphobates galactonotus",AMFRO,PDGAL,,,,,,,,,2,adelphobates galactonotus,9YN4,species,,9YN4,
+Amphibian,Frog,,,Poison Dart Frog - Splash Backed - Blue,Splash-Backed Poison Dart Frog Blue Galact,Splash-Backed Poison Dart Frog,Poison Dart Frog - Splash Backed - Blue Splash-Backed Poison Dart Frog Blue Galact Splash-Backed Poison Dart Frog,Adelphobates galactonotus,,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Adelphobates ,,galactonotus,"""Blue""",,,Amphibian > Frog,"Adelphobates > galactonotus > 
+ > ""Blue""","Poison Dart Frog - Splash Backed - Blue
+ > Adelphobates galactonotus",AMFRO,PDSBB,,,,,,,,,3,adelphobates galactonotus,9YN4,species,,9YN4,
+Amphibian,Frog,,,Poison Dart Frog - Green And Black,Green and Black Poison Dart Frog,Green and Black Poison Dart Frog,Poison Dart Frog - Green And Black Green and Black Poison Dart Frog Green and Black Poison Dart Frog,Dendrobates auratus sp.,,Animalia,Chordata,Amphibia,Anura,,,,,Dendrobatidae,,,Dendrobates,,auratus,,,,Amphibian > Frog,Dendrobates > auratus,"Poison Dart Frog - Green And Black
+ > Dendrobates auratus sp.",AMFRO,PDGAB,,,,,,,,,4,dendrobates auratus sp,34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog - Pena Blanca,Green and Black Poison Dart Frog,Pena Blanca Green and Black Poison Dart Frog,Poison Dart Frog - Pena Blanca Green and Black Poison Dart Frog Pena Blanca Green and Black Poison Dart Frog,"Dendrobates auratus sp. ""Pena Blanca""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,auratus,"""Pena Blanca""",,,Amphibian > Frog,"Dendrobates > auratus > 
+ > ""Pena Blanca""","Poison Dart Frog - Pena Blanca
+ > Dendrobates auratus sp. ""Pena Blanca""",AMFRO,PDBPL,,,,,,,,,5,"dendrobates auratus sp ""pena blanca""",34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog  - Birkhahn,Birkhahn Poison Dart Frog,Birkhahn Green and Black Poison Dart Frog,Poison Dart Frog  - Birkhahn Birkhahn Poison Dart Frog Birkhahn Green and Black Poison Dart Frog,"Dendrobates auratus sp. ""Birkhahn""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,auratus,"""Birkhahn""",,,Amphibian > Frog,"Dendrobates > auratus > 
+ > ""Birkhahn""","Poison Dart Frog - Birkhahn
+ > Dendrobates auratus sp. ""Birkhahn""",AMFRO,PDBIR,,,,,,,,,6,"dendrobates auratus sp ""birkhahn""",34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog  - Colombian Yellow Capurgana,Colombian Yellow Capurgana Poison Dart Frog,Colombian Yellow capurgana Green and Black Poison Dart Frog,Poison Dart Frog  - Colombian Yellow Capurgana Colombian Yellow Capurgana Poison Dart Frog Colombian Yellow capurgana Green and Black Poison Dart Frog,"Dendrobates auratus sp. ""Colombian Yellow Capurgana""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,auratus,"""Colombian Yellow capurgana""",,,Amphibian > Frog,"Dendrobates > auratus > 
+ > ""Colombian Yellow capurgana""","Poison Dart Frog - Colombian Yellow Capurgana
+ > Dendrobates auratus sp. ""Colombian Yellow Capurgana""",AMFRO,PDCAP,,,,,,,,,7,"dendrobates auratus sp ""colombian yellow capurgana""",34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog - Super Blue,Green and Black Poison Dart Frog - Super Blue,Super Blue Green and Black Poison Dart Frog,Poison Dart Frog - Super Blue Green and Black Poison Dart Frog - Super Blue Super Blue Green and Black Poison Dart Frog,"Dendrobates auratus sp. ""Super Blue""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,auratus,"""Super Blue""",,,Amphibian > Frog,"Dendrobates > auratus > 
+ > ""Super Blue""","Poison Dart Frog - Super Blue
+ > Dendrobates auratus sp. ""Super Blue""",AMFRO,PDSPB,,,,,,,,,8,"dendrobates auratus sp ""super blue""",34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog - Microspot,Green and Black Poison Dart Frog - Microspot,Super Blue Green and Black Poison Dart Frog,Poison Dart Frog - Microspot Green and Black Poison Dart Frog - Microspot Super Blue Green and Black Poison Dart Frog,"Dendrobates auratus sp. ""Microspot""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,auratus,"""Microspot""",,,Amphibian > Frog,"Dendrobates > auratus > 
+ > ""Microspot""","Poison Dart Frog - Microspot
+ > Dendrobates auratus sp. ""Microspot""",AMFRO,PDMIC,,,,,,,,,9,"dendrobates auratus sp ""microspot""",34M7L,species,,34M7L,
+Amphibian,Frog,,,Poison Dart Frog - Bumblebee,Bumblebee Poison Dart Frog,Bumblebee Poison Dart Frog,Poison Dart Frog - Bumblebee Bumblebee Poison Dart Frog Bumblebee Poison Dart Frog,"Dendrobates leucomelas sp. ""Bumblebee""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,leucomelas,"""Bumblebee""",,,Amphibian > Frog,"Dendrobates > leucomelas > 
+ > ""Bumblebee""","Poison Dart Frog - Bumblebee
+ > Dendrobates leucomelas sp. ""Bumblebee""",AMFRO,PDBMB,,,,,,,,,10,"dendrobates leucomelas sp ""bumblebee""",34M8X,species,,34M8X,
+Amphibian,Frog,,,Poison Dart Frog - Yellow Banded,Yellow-Banded Poison Dart Frog,Yellow-Banded Poison Dart Frog,Poison Dart Frog - Yellow Banded Yellow-Banded Poison Dart Frog Yellow-Banded Poison Dart Frog,"Dendrobates leucomelas sp. ""Yellow Banded""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,leucomelas,"""Yellow Banded""",,,Amphibian > Frog,"Dendrobates > leucomelas > 
+ > ""Yellow Banded""","Poison Dart Frog - Yellow Banded
+ > Dendrobates leucomelas sp. ""Yellow Banded""",AMFRO,PDYLB,,,,,,,,,11,"dendrobates leucomelas sp ""yellow banded""",34M8X,species,,34M8X,
+Amphibian,Frog,,,Poison Dart Frog - Blue,Poison Dart Frog - Blue ,Blue Poison Arrow Frog,Poison Dart Frog - Blue Poison Dart Frog - Blue  Blue Poison Arrow Frog,"Dendrobates tinctorius  sp. ""Azureus""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,tinctorius,"""Azureus""",,,Amphibian > Frog,"Dendrobates > tinctorius > 
+ > ""Azureus""","Poison Dart Frog - Blue
+ > Dendrobates tinctorius sp. ""Azureus""",AMFRO,PDBLU,,,,,,,,,12,"dendrobates tinctorius sp ""azureus""",6CJSY,species,,6CJSY,
+Amphibian,Frog,,,Poison Dart Frog - Azerus Blue,Azures Blue Poison Dart Frog,Azures blue poison dart frog,Poison Dart Frog - Azerus Blue Azures Blue Poison Dart Frog Azures blue poison dart frog,"Dendrobates tinctorius  sp. ""Azureus""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,tinctorius,"""Azureus""",,,Amphibian > Frog,"Dendrobates > tinctorius > 
+ > ""Azureus""","Poison Dart Frog - Azerus Blue
+ > Dendrobates tinctorius sp. ""Azureus""",AMFRO,PDAZB,,,,,,,,,13,"dendrobates tinctorius sp ""azureus""",6CJSY,species,,6CJSY,
+Amphibian,Frog,,,Poison Dart Frog - Tumucumaque,Tumucumaque Poison Dart Frog,Tumucumaque poison dart frog,Poison Dart Frog - Tumucumaque Tumucumaque Poison Dart Frog Tumucumaque poison dart frog,"Dendrobates tinctorius  sp. ""Tumucumaque""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,tinctorius,"""Tumucumaque""",,,Amphibian > Frog,"Dendrobates > tinctorius > 
+ > ""Tumucumaque""","Poison Dart Frog - Tumucumaque
+ > Dendrobates tinctorius sp. ""Tumucumaque""",AMFRO,PDTUM,,,,,,,,,14,"dendrobates tinctorius sp ""tumucumaque""",6CJSY,species,,6CJSY,
+Amphibian,Frog,,,Poison Dart Frog - Dyeing,Dyeing Poison Dart Frog,,Poison Dart Frog - Dyeing Dyeing Poison Dart Frog ,"Dendrobates tinctorius sp. ""Dyeing""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,tinctorius,"""Dyeing""",,,Amphibian > Frog,"Dendrobates > tinctorius > 
+ > ""Dyeing""","Poison Dart Frog - Dyeing
+ > Dendrobates tinctorius sp. ""Dyeing""",AMFRO,PDDYE,,,,,,,,,15,"dendrobates tinctorius sp ""dyeing""",6CJSY,species,,6CJSY,
+Amphibian,Frog,,,Poison Dart Frog - Arawape Blue,Awarape Blue Poison Dart Frog ,Dyeing Poison Dart Frog - Awarape Blue ,Poison Dart Frog - Arawape Blue Awarape Blue Poison Dart Frog  Dyeing Poison Dart Frog - Awarape Blue ,"Dendrobates tinctorius sp. ""Awarape Blue""",,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,,,,,Amphibian > Frog,Dendrobates >,"Poison Dart Frog - Arawape Blue
+ > Dendrobates tinctorius sp. ""Awarape Blue""",AMFRO,PDARB,,,,,,,,,16,"dendrobates tinctorius sp ""awarape blue""",6CJSY,species,,6CJSY,
+Amphibian,Frog,,,Poison Dart Frog - Blessed,Blessed Poison Dart Frog,Blessed Poison Dart Frog,Poison Dart Frog - Blessed Blessed Poison Dart Frog Blessed Poison Dart Frog,Ranitomeya benedicta,,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,,,,,Amphibian > Frog,Dendrobates >,"Poison Dart Frog - Blessed
+ > Ranitomeya benedicta",AMFRO,PDBLS,,,,,,,,,17,ranitomeya benedicta,78T37,species,,78T37,
+Amphibian,Frog,,,Poison Dart Frog - Spotted,Spotted Poison Dart Frog,Spotted Poison Dart Frog,Poison Dart Frog - Spotted Spotted Poison Dart Frog Spotted Poison Dart Frog,Ranitomeya vanzolinii,,Animalia,Chordata,Amphibia,Anura,,,,Dendrobatoidea,Dendrobatidae,,,Dendrobates,,,,,,Amphibian > Frog,Dendrobates >,"Poison Dart Frog - Spotted
+ > Ranitomeya vanzolinii",AMFRO,PDSPT,,,,,,,,,18,ranitomeya vanzolinii,78SQX,species,,78SQX,
+Amphibian,Frog,,,Malayan Horned Frog,,,Malayan Horned Frog  ,Megophrys nasuta,,Animalia,Chordata,Amphibia,Anura,,,,,Megophryidae,,,Megophrys,,nasuta,,,,Amphibian > Frog,Megophrys > nasuta,"Malayan Horned Frog
+ > Megophrys nasuta",AMFRO,MYHOR,,,,,,,,,19,megophrys nasuta,3Z2BX,species,,3Z2BX,
+Amphibian,Frog,,,African Bull Frog,Pixie Frog,,African Bull Frog Pixie Frog ,Pyxicephalus adspersus,P. adspersus,Animalia,Chordata,Amphibia,Anura,,,,,Pyxicephalidae,,,Pyxicephalus,,adspersus,,,,Amphibian > Frog,Pyxicephalus > adspersus,"African Bull Frog
+ > Pyxicephalus adspersus",AMFRO,AFBLL,,,,,,,,,20,pyxicephalus adspersus,4QYCF,species,,4QYCF,
+Amphibian,Frog,,,Vietnamese Mossy Frog,Mossy frog,,Vietnamese Mossy Frog Mossy frog ,Theloderma corticale,T. corticale,Animalia,Chordata,Amphibia,Anura,,,,,Rhacophoridae,,,Theloderma,,corticale,,,,Amphibian > Frog,Theloderma > corticale,"Vietnamese Mossy Frog
+ > Theloderma corticale",AMFRO,VIMOS,,,,,,,,,21,theloderma corticale,568HJ,species,,568HJ,
+Amphibian,Frog,,,Red-Eyed Tree Frog,,,Red-Eyed Tree Frog  ,Agalychnis callidryas,,Animalia,Chordata,Amphibia,Anura,,,,,,,,Agalychnis,,callidryas,,,,Amphibian > Frog,Agalychnis > callidryas,"Red-Eyed Tree Frog
+ > Agalychnis callidryas",AMFRO,RDTRE,,,,,,,,,22,agalychnis callidryas,65JNR,species,,65JNR,
+Amphibian,Frog,,,Banded Bullfrog / Chubby Frog,,,Banded Bullfrog / Chubby Frog  ,Kaloula pulchra,,Animalia,Chordata,Amphibia,,,,,,,,,,,,,,,Amphibian > Frog,>,"Banded Bullfrog / Chubby Frog
+ > Kaloula pulchra",AMFRO,CHUBY,,,,,,,,,23,kaloula pulchra,3QZL4,species,,3QZL4,
+Amphibian,Newt,,,Black Knobby Newt,,,Black Knobby Newt  ,Tylototriton asperrimus,,Animalia,Chordata,Amphibia,Urodela,,,,,Salamandridae,,,,,,,,,Amphibian > Newt,>,"Black Knobby Newt
+ > Tylototriton asperrimus",AMNEW,BKNWT,,,,,,,,,24,tylototriton asperrimus,7DBLB,species,,7DBLB,
+Amphibian,Newt,,,Chiang Mai Crocodile Newt,,,Chiang Mai Crocodile Newt  ,Tylototriton uyenoi,T. uyenoi,Animalia,Chordata,Amphibia,Urodela,,,,,Salamandridae,,,Tylototriton,,uyenoi,,,,Amphibian > Newt,Tylototriton > uyenoi,"Chiang Mai Crocodile Newt
+ > Tylototriton uyenoi",AMNEW,CRNWT,,,,,,,,,25,tylototriton uyenoi,7DBJY,species,,7DBJY,
+Amphibian,Newt,,,Japanese Sword-Tail Newt - Brown,,,Japanese Sword-Tail Newt - Brown  ,Cynops ensicauda,,Animalia,Chordata,Amphibia,Urodela,,,,,Salamandridae,,,Cynops,,̌ensicauda,,,,Amphibian > Newt,Cynops > ̌ensicauda,"Japanese Sword-Tail Newt - Brown
+ > Cynops ensicauda",AMNEW,STNWT,,,,,,,,,26,cynops ensicauda,6C7WR,species,,6C7WR,
+Amphibian,Newt,,,Japanese Sword-Tail Newt - Gold Dust,,,Japanese Sword-Tail Newt - Gold Dust  ,Cynops ensicauda popei,,Animalia,Chordata,Amphibia,Urodela,,,,,Salamandridae,,,Cynops,,̌ensicauda,popei,,,Amphibian > Newt,"Cynops > ̌ensicauda > 
+ > popei","Japanese Sword-Tail Newt - Gold Dust
+ > Cynops ensicauda popei",AMNEW,GDNWT,,,,,,,,,27,cynops ensicauda popei,B758H,subspecies,,B758H,
+Amphibian,Salamander,,,Giant Salamander*,,,Giant Salamander*  ,Andrias sp.,,Animalia,Chordata,Amphibia,,,,,,,,,,,,,,,Amphibian > Salamander,>,"Giant Salamander*
+ > Andrias sp.",AMSAL,GSALA,,,,,,,,,28,andrias sp,VTF,Genus Matched. Species not found,andrias sp,VTF,
+Amphibian,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,,,name not found,,,
+Arachnid,Tarantula,,,Tarantula*,,,Tarantula*  ,*,*,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,*,,,*,,*,,,,Arachnid > Tarantula,* > *,"Tarantula*
+ > *",ARTAR,TARNT,,,,,,,,,30,,,name not found,,,
+Arachnid,Tarantula,,,Costa Rican Zebra Tarantula,Striped-Knee Tarantula,,Costa Rican Zebra Tarantula Striped-Knee Tarantula ,Aphonopelma seemanni,A. seemanni,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Aphonopelma,,seemanni,,,,Arachnid > Tarantula,Aphonopelma > seemanni,"Costa Rican Zebra Tarantula
+ > Aphonopelma seemanni",ARTAR,COZEB,,,,,,,,,31,aphonopelma seemanni,FJSX,species,,FJSX,
+Arachnid,Tarantula,,,Mexican Fire Leg Tarantula,,,Mexican Fire Leg Tarantula  ,Brachypelma boehmei,B. boehmei,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Brachypelma,,boehmei,,,,Arachnid > Tarantula,Brachypelma > boehmei,"Mexican Fire Leg Tarantula
+ > Brachypelma boehmei",ARTAR,MXFLG,,,,,,,,,32,brachypelma boehmei,MYBN,species,,MYBN,
+Arachnid,Tarantula,,,Mexican Redknee Tarantula,,,Mexican Redknee Tarantula  ,Brachypelma smithi,B. smithi,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Brachypelma,,smithi,,,,Arachnid > Tarantula,Brachypelma > smithi,"Mexican Redknee Tarantula
+ > Brachypelma smithi",ARTAR,MXRKN,,,,,,,,,33,brachypelma smithi,MYBY,species,,MYBY,
+Arachnid,Tarantula,,,Cobalt Blue Tarantula,,,Cobalt Blue Tarantula  ,Cyriopagopus lividus,C. lividus,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Cyriopagopus,,lividus,,,,Arachnid > Tarantula,Cyriopagopus > lividus,"Cobalt Blue Tarantula
+ > Cyriopagopus lividus",ARTAR,COBLT,,,,,,,,,34,cyriopagopus lividus,33JSM,species,,33JSM,
+Arachnid,Tarantula,,,Thailand Black Tarantula,,,Thailand Black Tarantula  ,Cyriopagopus minax,C. minax,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Cyriopagopus,,minax,,,,Arachnid > Tarantula,Cyriopagopus > minax,"Thailand Black Tarantula
+ > Cyriopagopus minax",ARTAR,THABL,,,,,,,,,35,cyriopagopus minax,33JSP,species,,33JSP,
+Arachnid,Tarantula,,,Chaco Golden knee tarantula,,,Chaco Golden knee tarantula  ,Grammostola Pulchripes,G. Pulchripes,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Grammostola,,pulchripes,,,,Arachnid > Tarantula,Grammostola > pulchripes,"Chaco Golden knee tarantula
+ > Grammostola Pulchripes",ARTAR,CHAGK,,,,,,,,,36,grammostola pulchripes,3H7H5,species,,3H7H5,
+Arachnid,Tarantula,,,Orange Baboon Tarantula,,,Orange Baboon Tarantula  ,Pterinochilus murinus,P. murinus,Animalia,Arthropoda,Arachnida,Araneae,Mygalomorphae,,,,Theraphosidae,,,Pterinochilus,,murinus,,,,Arachnid > Tarantula,Pterinochilus > murinus,"Orange Baboon Tarantula
+ > Pterinochilus murinus",ARTAR,ORBAB,,,,,,,,,37,pterinochilus murinus,6WLFJ,species,,6WLFJ,
+Arthropod,Centipede,,,Centipede,,,Centipede  ,,,Animalia,Arthropoda,Chilopoda,,,,,,,,,,,,,,,Arthropod > Centipede,>,"Centipede
+ >",ARCEN,CENTI,,,,,,,,,38,,,name not found,,,
+Chelonian (Testudines),Tortoise,,,African Spurred Tortoise,Sulcata Tortoise,,African Spurred Tortoise Sulcata Tortoise ,Centrochelys sulcata,,Animalia,Chordata,Reptilia,Testudines,,,,Testudinoidea,Testudinidae,,,Centrochelys,,sulcata,,,,Chelonian (Testudines) > Tortoise,Centrochelys > sulcata,"African Spurred Tortoise
+ > Centrochelys sulcata",CHTOR,,,,,,,,,,39,centrochelys sulcata,S9KW,species,,S9KW,
+Chelonian (Testudines),Tortoise,,,Radiated Tortoise,,,Radiated Tortoise  ,Astrochelys radiata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Astrochelys,,radiata,,,,Chelonian (Testudines) > Tortoise,Astrochelys > radiata,"Radiated Tortoise
+ > Astrochelys radiata",CHTOR,,,,,,,,,,40,astrochelys radiata,J439,species,,J439,
+Chelonian (Testudines),Tortoise,,,Ploughshare tortoise,,,Ploughshare tortoise  ,Astrochelys yniphora,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Astrochelys,,yniphora,,,,Chelonian (Testudines) > Tortoise,Astrochelys > yniphora,"Ploughshare tortoise
+ > Astrochelys yniphora",CHTOR,,,,,,,,,,41,astrochelys yniphora,5VVSV,species,,5VVSV,
+Chelonian (Testudines),Tortoise,,,Red Footed Tortoise,,,Red Footed Tortoise  ,Chelonoidis carbonarius,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelonoidis,,carbonarius,,,,Chelonian (Testudines) > Tortoise,Chelonoidis > carbonarius,"Red Footed Tortoise
+ > Chelonoidis carbonarius",CHTOR,,,,,,,,,,42,chelonoidis carbonarius,TVL4,species,,TVL4,
+Chelonian (Testudines),Tortoise,,,Cherry Head Red Footed tortoise,,,Cherry Head Red Footed tortoise  ,Chelonoidis carbonarius,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelonoidis,,carbonarius,,,,Chelonian (Testudines) > Tortoise,Chelonoidis > carbonarius,"Cherry Head Red Footed tortoise
+ > Chelonoidis carbonarius",CHTOR,,,,,,,,,,43,chelonoidis carbonarius,TVL4,species,,TVL4,
+Chelonian (Testudines),Tortoise,,,Yellow Footed Tortoise,,,Yellow Footed Tortoise  ,Chelonoidis denticulatus,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelonoidis,,denticulatus,,,,Chelonian (Testudines) > Tortoise,Chelonoidis > denticulatus,"Yellow Footed Tortoise
+ > Chelonoidis denticulatus",CHTOR,,,,,,,,,,44,chelonoidis denticulatus,TVL9,species,,TVL9,
+Chelonian (Testudines),Tortoise,,,GALAPAGOS TORTOISE,,,GALAPAGOS TORTOISE  ,Chelonoidis niger,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelonoidis,,niger,,,,Chelonian (Testudines) > Tortoise,Chelonoidis > niger,"GALAPAGOS TORTOISE
+ > Chelonoidis niger",CHTOR,,,,,,,,,,45,chelonoidis niger,5Y2Z9,species,,5Y2Z9,
+Chelonian (Testudines),Tortoise,,,Elongated tortoise,,,Elongated tortoise  ,Indotestudo elongata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Indotestudo,,elongata,,,,Chelonian (Testudines) > Tortoise,Indotestudo > elongata,"Elongated tortoise
+ > Indotestudo elongata",CHTOR,,,,,,,,,,46,indotestudo elongata,3PNQV,species,,3PNQV,
+Chelonian (Testudines),Tortoise,,,Leopard Tortoise,,,Leopard Tortoise  ,Stigmochelys pardalis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Stigmochelys,,pardalis,,,,Chelonian (Testudines) > Tortoise,Stigmochelys > pardalis,"Leopard Tortoise
+ > Stigmochelys pardalis",CHTOR,,,,,,,,,,47,stigmochelys pardalis,52MQ5,species,,52MQ5,
+Chelonian (Testudines),Tortoise,,,Hermann's tortoise,,,Hermann's tortoise  ,Testudo hermanni,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Testudo,,hermanni,,,,Chelonian (Testudines) > Tortoise,Testudo > hermanni,"Hermann's tortoise
+ > Testudo hermanni",CHTOR,,,,,,,,,,48,testudo hermanni,7C3D6,species,,7C3D6,
+Chelonian (Testudines),Tortoise,,,Russian tortoise,,,Russian tortoise  ,Testudo horsfieldii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Testudo,,horsfieldii,,,,Chelonian (Testudines) > Tortoise,Testudo > horsfieldii,"Russian tortoise
+ > Testudo horsfieldii",CHTOR,,,,,,,,,,49,testudo horsfieldii,55JSY,species,,55JSY,
+Chelonian (Testudines),Tortoise,,,Aldabra Giant Tortoise,,,Aldabra Giant Tortoise  ,Aldabrachelys gigantea,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,,,,,,,Chelonian (Testudines) > Tortoise,>,"Aldabra Giant Tortoise
+ > Aldabrachelys gigantea",CHTOR,,,,,,,,,,50,aldabrachelys gigantea,6689N,species,,6689N,
+Chelonian (Testudines),Turtle,,,Florida box turtle,,,Florida box turtle  ,Terrapene carolina bauri,Taylor,1895,Chordata,Reptilia,Testudines,,,,,,,,Terrapene,,carolina,,,,Chelonian (Testudines) > Turtle,Terrapene > carolina,"Florida box turtle
+ > Terrapene carolina bauri",CHTUR,,,,,,,,,,51,terrapene carolina bauri,B46PJ,subspecies,,B46PJ,
+Chelonian (Testudines),Turtle,,,Reeves Turtle ,Chinese Pond Turtle,Chinese three-keeled pond turtle,Reeves Turtle  Chinese Pond Turtle Chinese three-keeled pond turtle,Mauremys reevesii,M. reevesii,Animalia,Chordata,Reptilia,Testudines,,,Cryptodira,Testudinoidea,Geoemydidae,,,Mauremys,,reevesii,,,,Chelonian (Testudines) > Turtle,Mauremys > reevesii,"Reeves Turtle 
+ > Mauremys reevesii",CHTUR,,,,,,,,,,52,mauremys reevesii,3YFWL,species,,3YFWL,
+Chelonian (Testudines),Turtle,,,Florida Softshell,,,Florida Softshell  ,Apalone ferox,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Apalone,,ferox,,,,Chelonian (Testudines) > Turtle,Apalone > ferox,"Florida Softshell
+ > Apalone ferox",CHTUR,,,,,,,,,,53,apalone ferox,F6QN,species,,F6QN,
+Chelonian (Testudines),Turtle,,,fly river Turtle,,,fly river Turtle  ,Carettochelys insculpta,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Carettochelys,,insculpta,,,,Chelonian (Testudines) > Turtle,Carettochelys > insculpta,"fly river Turtle
+ > Carettochelys insculpta",CHTUR,FLYRV,,,,,,,,,54,carettochelys insculpta,R7VH,species,,R7VH,
+Chelonian (Testudines),Turtle,,,snake- necked turtle,,,snake- necked turtle  ,Chelodina longicollis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelodina,,longicollis,,,,Chelonian (Testudines) > Turtle,Chelodina > longicollis,"snake- necked turtle
+ > Chelodina longicollis",CHTUR,,,,,,,,,,55,chelodina longicollis,5XQY4,species,,5XQY4,
+Chelonian (Testudines),Turtle,,,Mata Mata Turtle,,,Mata Mata Turtle  ,Chelus fimbriata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelus,,fimbriata,,,,Chelonian (Testudines) > Turtle,Chelus > fimbriata,"Mata Mata Turtle
+ > Chelus fimbriata",CHTUR,,,,,,,,,,56,chelus fimbriata,87WF9,species,,87WF9,
+Chelonian (Testudines),Turtle,,,Chinese Stripe-Necked Turtle,,,Chinese Stripe-Necked Turtle  ,Chelydra serpentina,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelydra,,serpentina,,,,Chelonian (Testudines) > Turtle,Chelydra > serpentina,"Chinese Stripe-Necked Turtle
+ > Chelydra serpentina",CHTUR,,,,,,,,,,57,chelydra serpentina,TWRZ,species,,TWRZ,
+Chelonian (Testudines),Turtle,,,Common Snapping Turtle,,,Common Snapping Turtle  ,Chelydra serpentina,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chelydra,,serpentina,,,,Chelonian (Testudines) > Turtle,Chelydra > serpentina,"Common Snapping Turtle
+ > Chelydra serpentina",CHTUR,,,,,,,,,,58,chelydra serpentina,TWRZ,species,,TWRZ,
+Chelonian (Testudines),Turtle,,,Western Painted turtle,,,Western Painted turtle  ,Chrysemys picta,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Chrysemys,,picta,,,,Chelonian (Testudines) > Turtle,Chrysemys > picta,"Western Painted turtle
+ > Chrysemys picta",CHTUR,,,,,,,,,,59,chrysemys picta,5YKRV,species,,5YKRV,
+Chelonian (Testudines),Turtle,,,Spotted Turtle,,,Spotted Turtle  ,Clemmys guttata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Clemmys,,guttata,,,,Chelonian (Testudines) > Turtle,Clemmys > guttata,"Spotted Turtle
+ > Clemmys guttata",CHTUR,,,,,,,,,,60,clemmys guttata,VYSQ,species,,VYSQ,
+Chelonian (Testudines),Turtle,,,Amboina Box Turtle,,,Amboina Box Turtle  ,Cuora amboinensis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,amboinensis,,,,Chelonian (Testudines) > Turtle,Cuora > amboinensis,"Amboina Box Turtle
+ > Cuora amboinensis",CHTUR,,,,,,,,,,61,cuora amboinensis,6BRNN,species,,6BRNN,
+Chelonian (Testudines),Turtle,,,Bourrets box turtle,,,Bourrets box turtle  ,Cuora bourreti,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,bourreti,,,,Chelonian (Testudines) > Turtle,Cuora > bourreti,"Bourrets box turtle
+ > Cuora bourreti",CHTUR,,,,,,,,,,62,cuora bourreti,6C3PB,species,,6C3PB,
+Chelonian (Testudines),Turtle,,,Chinese box turtle,,,Chinese box turtle  ,Cuora flavomarginata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,flavomarginata,,,,Chelonian (Testudines) > Turtle,Cuora > flavomarginata,"Chinese box turtle
+ > Cuora flavomarginata",CHTUR,,,,,,,,,,63,cuora flavomarginata,6BRPF,species,,6BRPF,
+Chelonian (Testudines),Turtle,,,Flower back box turtule,,,Flower back box turtule  ,Cuora galbinifrons,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,galbinifrons,,,,Chelonian (Testudines) > Turtle,Cuora > galbinifrons,"Flower back box turtule
+ > Cuora galbinifrons",CHTUR,,,,,,,,,,64,cuora galbinifrons,6C3PF,species,,6C3PF,
+Chelonian (Testudines),Turtle,,,Keeled box turtle,,,Keeled box turtle  ,Cuora mouhotii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,mouhotii,,,,Chelonian (Testudines) > Turtle,Cuora > mouhotii,"Keeled box turtle
+ > Cuora mouhotii",CHTUR,,,,,,,,,,65,cuora mouhotii,6BRPH,species,,6BRPH,
+Chelonian (Testudines),Turtle,,,Golden Coin Turtle,,,Golden Coin Turtle  ,Cuora trifasciata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Cuora,,trifasciata,,,,Chelonian (Testudines) > Turtle,Cuora > trifasciata,"Golden Coin Turtle
+ > Cuora trifasciata",CHTUR,,,,,,,,,,66,cuora trifasciata,6BRP4,species,,6BRP4,
+Chelonian (Testudines),Turtle,,,Short neck turtle,,,Short neck turtle  ,Emydura macquarii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Emydura,,macquarii,,,,Chelonian (Testudines) > Turtle,Emydura > macquarii,"Short neck turtle
+ > Emydura macquarii",CHTUR,,,,,,,,,,67,emydura macquarii,39LSX,species,,39LSX,
+Chelonian (Testudines),Turtle,,,Pink-bellied Side-necked Turtle,,,Pink-bellied Side-necked Turtle  ,Emydura subglobosa,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Emydura,,subglobosa,,,,Chelonian (Testudines) > Turtle,Emydura > subglobosa,"Pink-bellied Side-necked Turtle
+ > Emydura subglobosa",CHTUR,,,,,,,,,,68,emydura subglobosa,39LT7,species,,39LT7,
+Chelonian (Testudines),Turtle,,,Japnese leaf turtle,,,Japnese leaf turtle  ,Geoemyda japonica,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Geoemyda,,japonica,,,,Chelonian (Testudines) > Turtle,Geoemyda > japonica,"Japnese leaf turtle
+ > Geoemyda japonica",CHTUR,,,,,,,,,,69,geoemyda japonica,3FPPM,species,,3FPPM,
+Chelonian (Testudines),Turtle,,,Northern Map Turtle,,,Northern Map Turtle  ,Graptemys geographica,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Graptemys,,geographica,,,,Chelonian (Testudines) > Turtle,Graptemys > geographica,"Northern Map Turtle
+ > Graptemys geographica",CHTUR,,,,,,,,,,70,graptemys geographica,6L57F,species,,6L57F,
+Chelonian (Testudines),Turtle,,,Mississippi Map Turtle,,,Mississippi Map Turtle  ,Graptemys pseudogeographica kohni,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Graptemys,,pseudogeographica,kohni,,,Chelonian (Testudines) > Turtle,"Graptemys > pseudogeographica > 
+ > kohni","Mississippi Map Turtle
+ > Graptemys pseudogeographica kohni",CHTUR,,,,,,,,,,71,graptemys pseudogeographica kohni,6KT7C,species,,6KT7C,
+Chelonian (Testudines),Turtle,,,Yellow headed Temple turtle,,,Yellow headed Temple turtle  ,Heosemys annandalii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Heosemys,,annandalii,,,,Chelonian (Testudines) > Turtle,Heosemys > annandalii,"Yellow headed Temple turtle
+ > Heosemys annandalii",CHTUR,,,,,,,,,,72,heosemys annandalii,3KVX7,species,,3KVX7,
+Chelonian (Testudines),Turtle,,,Tabasco mud turtle,,,Tabasco mud turtle  ,Kinosternon acutum,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Kinosternon,,acutum,,,,Chelonian (Testudines) > Turtle,Kinosternon > acutum,"Tabasco mud turtle
+ > Kinosternon acutum",CHTUR,,,,,,,,,,73,kinosternon acutum,3R85R,species,,3R85R,
+Chelonian (Testudines),Turtle,,,White liped Mud turtle,,,White liped Mud turtle  ,Kinosternon leucostomum,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Kinosternon,,leucostomum,,,,Chelonian (Testudines) > Turtle,Kinosternon > leucostomum,"White liped Mud turtle
+ > Kinosternon leucostomum",CHTUR,,,,,,,,,,74,kinosternon leucostomum,3R86F,species,,3R86F,
+Chelonian (Testudines),Turtle,,,Sulawesi Forest Turtle,,,Sulawesi Forest Turtle  ,Leucocephalon yuwonoi,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Leucocephalon,,yuwonoi,,,,Chelonian (Testudines) > Turtle,Leucocephalon > yuwonoi,"Sulawesi Forest Turtle
+ > Leucocephalon yuwonoi",CHTUR,,,,,,,,,,75,leucocephalon yuwonoi,6PTMR,species,,6PTMR,
+Chelonian (Testudines),Turtle,,,Alligator Snapping Turtle,,,Alligator Snapping Turtle  ,Macrochelys temminckii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Macrochelys,,temminckii,,,,Chelonian (Testudines) > Turtle,Macrochelys > temminckii,"Alligator Snapping Turtle
+ > Macrochelys temminckii",CHTUR,,,,,,,,,,76,macrochelys temminckii,3X3WY,species,,3X3WY,
+Chelonian (Testudines),Turtle,,,Diamondback Terrapin,,,Diamondback Terrapin  ,Malaclemys terrapin,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Malaclemys,,terrapin,,,,Chelonian (Testudines) > Turtle,Malaclemys > terrapin,"Diamondback Terrapin
+ > Malaclemys terrapin",CHTUR,,,,,,,,,,77,malaclemys terrapin,3XKD4,species,,3XKD4,
+Chelonian (Testudines),Turtle,,,Vietnamese pond turtle,,,Vietnamese pond turtle  ,Mauremys annamensis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Mauremys,,annamensis,,,,Chelonian (Testudines) > Turtle,Mauremys > annamensis,"Vietnamese pond turtle
+ > Mauremys annamensis",CHTUR,,,,,,,,,,78,mauremys annamensis,3YFW6,species,,3YFW6,
+Chelonian (Testudines),Turtle,,,Japanese pond turtle,,,Japanese pond turtle  ,Mauremys japonica,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Mauremys,,japonica,,,,Chelonian (Testudines) > Turtle,Mauremys > japonica,"Japanese pond turtle
+ > Mauremys japonica",CHTUR,,,,,,,,,,79,mauremys japonica,3YFWC,species,,3YFWC,
+Chelonian (Testudines),Turtle,,,Chinese Pond turtle,,,Chinese Pond turtle  ,Mauremys reevesii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Mauremys,,reevesii,,,,Chelonian (Testudines) > Turtle,Mauremys > reevesii,"Chinese Pond turtle
+ > Mauremys reevesii",CHTUR,,,,,,,,,,80,mauremys reevesii,3YFWL,species,,3YFWL,
+Chelonian (Testudines),Turtle,,,Chinese Softshell turtule,,,Chinese Softshell turtule  ,Pelodiscus sinensis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pelodiscus,,sinensis,,,,Chelonian (Testudines) > Turtle,Pelodiscus > sinensis,"Chinese Softshell turtule
+ > Pelodiscus sinensis",CHTUR,,,,,,,,,,81,pelodiscus sinensis,76CTF,species,,76CTF,
+Chelonian (Testudines),Turtle,,,African Helmeted Turtle,,,African Helmeted Turtle  ,Pelomedusa subrufa,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pelomedusa,,subrufa,,,,Chelonian (Testudines) > Turtle,Pelomedusa > subrufa,"African Helmeted Turtle
+ > Pelomedusa subrufa",CHTUR,,,,,,,,,,82,pelomedusa subrufa,76CSF,species,,76CSF,
+Chelonian (Testudines),Turtle,,,Hilaire’s sideneck turtule,,,Hilaire’s sideneck turtule  ,Phrynops hilarii,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Phrynops,,hilarii,,,,Chelonian (Testudines) > Turtle,Phrynops > hilarii,"Hilaire’s sideneck turtule
+ > Phrynops hilarii",CHTUR,,,,,,,,,,83,phrynops hilarii,4GWNT,species,,4GWNT,
+Chelonian (Testudines),Turtle,,,Big headed turtle,,,Big headed turtle  ,Platysternon megacephalum,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Platysternon,,megacephalum,,,,Chelonian (Testudines) > Turtle,Platysternon > megacephalum,"Big headed turtle
+ > Platysternon megacephalum",CHTUR,,,,,,,,,,84,platysternon megacephalum,4JZ39,species,,4JZ39,
+Chelonian (Testudines),Turtle,,,yellow spotted river Turtle,,,yellow spotted river Turtle  ,Podocnemis unifilis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Podocnemis,,unifilis,,,,Chelonian (Testudines) > Turtle,Podocnemis > unifilis,"yellow spotted river Turtle
+ > Podocnemis unifilis",CHTUR,,,,,,,,,,85,podocnemis unifilis,4KQGF,species,,4KQGF,
+Chelonian (Testudines),Turtle,,,River cooter,,,River cooter  ,Pseudemys concinna,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pseudemys,,concinna,,,,Chelonian (Testudines) > Turtle,Pseudemys > concinna,"River cooter
+ > Pseudemys concinna",CHTUR,,,,,,,,,,86,pseudemys concinna,4NM9N,species,,4NM9N,
+Chelonian (Testudines),Turtle,,,Eastern Painted turtle,,,Eastern Painted turtle  ,Pseudemys peninsularis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pseudemys,,peninsularis,,,,Chelonian (Testudines) > Turtle,Pseudemys > peninsularis,"Eastern Painted turtle
+ > Pseudemys peninsularis",CHTUR,,,,,,,,,,87,pseudemys peninsularis,78CBH,species,,78CBH,
+Chelonian (Testudines),Turtle,,,Peninsula Cooter Turtle,,,Peninsula Cooter Turtle  ,Pseudemys peninsularis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pseudemys,,peninsularis,,,,Chelonian (Testudines) > Turtle,Pseudemys > peninsularis,"Peninsula Cooter Turtle
+ > Pseudemys peninsularis",CHTUR,,,,,,,,,,88,pseudemys peninsularis,78CBH,species,,78CBH,
+Chelonian (Testudines),Turtle,,,Northern redbelly Slider turtle,,,Northern redbelly Slider turtle  ,Pseudemys rubriventris,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Pseudemys,,rubriventris,,,,Chelonian (Testudines) > Turtle,Pseudemys > rubriventris,"Northern redbelly Slider turtle
+ > Pseudemys rubriventris",CHTUR,,,,,,,,,,89,pseudemys rubriventris,78CBK,species,,78CBK,
+Chelonian (Testudines),Turtle,,,Ornate Wood Turtle,,,Ornate Wood Turtle  ,Rhinoclemmys pulcherrima,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Rhinoclemmys,,pulcherrima,,,,Chelonian (Testudines) > Turtle,Rhinoclemmys > pulcherrima,"Ornate Wood Turtle
+ > Rhinoclemmys pulcherrima",CHTUR,,,,,,,,,,90,rhinoclemmys pulcherrima,4S8B6,species,,4S8B6,
+Chelonian (Testudines),Turtle,,,Neotropical wood turtle,,,Neotropical wood turtle  ,Rhinoclemmys sspp*,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Rhinoclemmys,,sspp*,,,,Chelonian (Testudines) > Turtle,Rhinoclemmys > sspp*,"Neotropical wood turtle
+ > Rhinoclemmys sspp*",CHTUR,,,,,,,,,,91,rhinoclemmys sspp,78P2,Genus Matched. Species not found,rhinoclemmys sspp,78P2,
+Chelonian (Testudines),Turtle,,,Four eyed turtle,,,Four eyed turtle  ,Sacalia quadriocellata,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Sacalia,,quadriocellata,,,,Chelonian (Testudines) > Turtle,Sacalia > quadriocellata,"Four eyed turtle
+ > Sacalia quadriocellata",CHTUR,,,,,,,,,,92,sacalia quadriocellata,4TVYB,species,,4TVYB,
+Chelonian (Testudines),Turtle,,,Razor back musk turtle,,,Razor back musk turtle  ,Sternotherus carinatus,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Sternotherus,,carinatus,,,,Chelonian (Testudines) > Turtle,Sternotherus > carinatus,"Razor back musk turtle
+ > Sternotherus carinatus",CHTUR,,,,,,,,,,93,sternotherus carinatus,52FSR,species,,52FSR,
+Chelonian (Testudines),Turtle,,,Common musk turtle,,,Common musk turtle  ,Sternotherus odoratus,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Sternotherus,,odoratus,,,,Chelonian (Testudines) > Turtle,Sternotherus > odoratus,"Common musk turtle
+ > Sternotherus odoratus",CHTUR,,,,,,,,,,94,sternotherus odoratus,52FT3,species,,52FT3,
+Chelonian (Testudines),Turtle,,,Eastern Box Turtle,,,Eastern Box Turtle  ,Terrapene carolina carolina,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Terrapene,,carolina,carolina,,,Chelonian (Testudines) > Turtle,"Terrapene > carolina > 
+ > carolina","Eastern Box Turtle
+ > Terrapene carolina carolina",CHTUR,,,,,,,,,,95,terrapene carolina carolina,7J4ZX,subspecies,,7J4ZX,
+Chelonian (Testudines),Turtle,,,Gulf cost box turtle,,,Gulf cost box turtle  ,Terrapene carolina major,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Terrapene,,carolina,,,,Chelonian (Testudines) > Turtle,Terrapene > carolina,"Gulf cost box turtle
+ > Terrapene carolina major",CHTUR,,,,,,,,,,96,terrapene carolina major,7J4ZW,subspecies,,7J4ZW,
+Chelonian (Testudines),Turtle,,,Mexican box turtle,,,Mexican box turtle  ,Terrapene mexicana,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Terrapene,,mexicana,,,,Chelonian (Testudines) > Turtle,Terrapene > mexicana,"Mexican box turtle
+ > Terrapene mexicana",CHTUR,,,,,,,,,,97,terrapene mexicana,55HWR,species,,55HWR,
+Chelonian (Testudines),Turtle,,,Three toed Box Turtle,,,Three toed Box Turtle  ,Terrapene triunguis,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Terrapene,,triunguis,,,,Chelonian (Testudines) > Turtle,Terrapene > triunguis,"Three toed Box Turtle
+ > Terrapene triunguis",CHTUR,,,,,,,,,,98,terrapene triunguis,6478B,Genus Matched. Species not found,terrapene triunguis,6478B,
+Chelonian (Testudines),Turtle,,,Red Eared Slider,,,Red Eared Slider  ,Trachemys scripta elegans,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Trachemys,,scripta,,,,Chelonian (Testudines) > Turtle,Trachemys > scripta,"Red Eared Slider
+ > Trachemys scripta elegans",CHTUR,,,,,,,,,,99,trachemys scripta elegans,5F8HQ,subspecies,,5F8HQ,
+Chelonian (Testudines),Turtle,,,Yellow Bellied Slider turtle,,,Yellow Bellied Slider turtle  ,Trachemys scripta scripta,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Trachemys,,scripta,scripta,,,Chelonian (Testudines) > Turtle,"Trachemys > scripta > 
+ > scripta","Yellow Bellied Slider turtle
+ > Trachemys scripta scripta",CHTUR,,,,,,,,,,100,trachemys scripta scripta,5F8HR,subspecies,,5F8HR,
+Chelonian (Testudines),Turtle,,,Meso-American Slider Turtle,,,Meso-American Slider Turtle  ,Trachemys venusta,,Animalia,Chordata,Reptilia,Testudines,,,,,,,,Trachemys,,venusta,,,,Chelonian (Testudines) > Turtle,Trachemys > venusta,"Meso-American Slider Turtle
+ > Trachemys venusta",CHTUR,,,,,,,,,,101,trachemys venusta,7CLCL,species,,7CLCL,
+Chelonian (Testudines),Turtle,,,Vietnam leaf turtule,,,Vietnam leaf turtule  ,Geoemyda spengleri,Gulf Coast box turtle,,Chordata,Reptilia,Testudines,,,,,,,,Geoemyda,,spengleri,,,,Chelonian (Testudines) > Turtle,Geoemyda > spengleri,"Vietnam leaf turtule
+ > Geoemyda spengleri",CHTUR,,,,,,,,,,102,geoemyda spengleri,3FPPW,species,,3FPPW,
+crocodilians,,,,American Alligator,,,American Alligator  ,Alligator mississippiensis,,,,,,,,,,,,,,,,,,,crocodilians >,>,"American Alligator
+ > Alligator mississippiensis",CR,,,,,,,,,,103,alligator mississippiensis,BTRB,species,,BTRB,
+crocodilians,,,,Chinese alligator,,,Chinese alligator  ,Alligator sinensis,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Chinese alligator
+ > Alligator sinensis",CR,,,,,,,,,,104,alligator sinensis,BTRF,species,,BTRF,
+crocodilians,,,,Spectacled Caiman,,,Spectacled Caiman  ,Caiman crocodilus,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Spectacled Caiman
+ > Caiman crocodilus",CR,,,,,,,,,,105,caiman crocodilus,PBBP,species,,PBBP,
+crocodilians,,,,Philippines Crocodile,,,Philippines Crocodile  ,Crocodylus mindorensis,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Philippines Crocodile
+ > Crocodylus mindorensis",CR,,,,,,,,,,106,crocodylus mindorensis,ZKNG,species,,ZKNG,
+crocodilians,,,,Saltwater crocodile,,,Saltwater crocodile  ,Crocodylus porosus,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Saltwater crocodile
+ > Crocodylus porosus",CR,,,,,,,,,,107,crocodylus porosus,ZKNP,species,,ZKNP,
+crocodilians,,,,Siamese Crocodile,,,Siamese Crocodile  ,Crocodylus siamensis,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Siamese Crocodile
+ > Crocodylus siamensis",CR,,,,,,,,,,108,crocodylus siamensis,ZKNS,species,,ZKNS,
+crocodilians,,,,Indian Gharial,,,Indian Gharial  ,Gavialis gangeticus,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Indian Gharial
+ > Gavialis gangeticus",CR,,,,,,,,,,109,gavialis gangeticus,3FFQ3,species,,3FFQ3,
+crocodilians,,,,West-African Dwarf crocodile,,,West-African Dwarf crocodile  ,Osteolaemus tetraspis,,,,,,,,,,,,,,,,,,,crocodilians >,>,"West-African Dwarf crocodile
+ > Osteolaemus tetraspis",CR,,,,,,,,,,110,osteolaemus tetraspis,6TBCB,species,,6TBCB,
+crocodilians,,,,Cuvier's Dwarf Caiman,,,Cuvier's Dwarf Caiman  ,Paleosuchus palpebrosus,,,,,,,,,,,,,,,,,,,crocodilians >,>,"Cuvier's Dwarf Caiman
+ > Paleosuchus palpebrosus",CR,,,,,,,,,,111,paleosuchus palpebrosus,4C47J,species,,4C47J,
+crocodilians,,,,False Gharial,,,False Gharial  ,Tomistoma schlegelii,,,,,,,,,,,,,,,,,,,crocodilians >,>,"False Gharial
+ > Tomistoma schlegelii",CR,,,,,,,,,,112,tomistoma schlegelii,57D4X,species,,57D4X,
+crocodilians,,,,African Dwarf Crocodile,,,African Dwarf Crocodile  ,,,,,,,,,,,,,,,,,,,,crocodilians >,>,"African Dwarf Crocodile
+ >",CR,,,,,,,,,,113,,,name not found,,,
+crocodilians,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,114,,,name not found,,,
+Lizard,Agama,,,Sailfin Dragon,Sailfin Lizard,,Sailfin Dragon Sailfin Lizard ,Hydrosaurus amboinensis,H.amboinensis,Animalia,Chordata,Reptilia,Squamata,,,,,Agamidae,Hydrosaurinae,,Hydrosaurus,,amboinensis,,,,Lizard > Agama,Hydrosaurus > amboinensis,"Sailfin Dragon
+ > Hydrosaurus amboinensis",LIAGA,SLFIN,,,,,,,,,115,hydrosaurus amboinensis,6MLCW,species,,6MLCW,
+Lizard,Agama,,,Philippine Sailfin Dragon,Philippine Sailfin Lizard,,Philippine Sailfin Dragon Philippine Sailfin Lizard ,Hydrosaurus pustulatus,H.pustulatus,Animalia,Chordata,Reptilia,Squamata,,,,,Agamidae,Hydrosaurinae,,Hydrosaurus,,pustulatus,,,,Lizard > Agama,Hydrosaurus > pustulatus,"Philippine Sailfin Dragon
+ > Hydrosaurus pustulatus",LIAGA,PHSFN,,,,,,,,,116,hydrosaurus pustulatus,3N9VG,species,,3N9VG,
+Lizard,Agama,,,Butterfly Agama,,,Butterfly Agama  ,Leiolepis sp*,,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Agamidae,Leiolepidinae,,Leiolepis,,sp*,,,,Lizard > Agama,Leiolepis > sp*,"Butterfly Agama
+ > Leiolepis sp*",LIAGA,BTAGA,,,,,,,,,117,leiolepis sp,5BWY,Genus Matched. Species not found,leiolepis sp,5BWY,
+Lizard,Agama,,,Bearded dragon,,,Bearded dragon  ,Pogona sp*,,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Agamidae,Amphibolurinae,,Pogona,,sp*,,,,Lizard > Agama,Pogona > sp*,"Bearded dragon
+ > Pogona sp*",LIAGA,BDDRG,,,,,,,,,118,pogona sp,63NN8,Genus Matched. Species not found,pogona sp,63NN8,
+Lizard,Agama,,,Ornate Uromastyx,,,Ornate Uromastyx  ,Uromastyx ornata,U ornata,Animalia,Chordata,Reptilia,Squamata,,,,,Agamidae,Hydrosaurinae,,Uromastyx,,ornata,,,,Lizard > Agama,Uromastyx > ornata,"Ornate Uromastyx
+ > Uromastyx ornata",LIAGA,ORURO,,,,,,,,,119,uromastyx ornata,7DVYB,species,,7DVYB,
+Lizard,Anguidae,,,European legless lizard, European glass lizard,sheltopusik,European legless lizard  European glass lizard sheltopusik,Pseudopus apodus,P. apodus,Animalia,Chordata,Reptilia,Squamata,,,,,,,,Pseudopus,,apodus,,,,Lizard > Anguidae,Pseudopus > apodus,"European legless lizard
+ > Pseudopus apodus",LIANG,EULGL,,,,,,,,,120,pseudopus apodus,4P98Q,species,,4P98Q,
+Lizard,Chameleon,,,Panther Chameleon,,,Panther Chameleon  ,Furcifer pardalis,,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Chamaeleonidae,,,Furcifer,,pardalis,,,,Lizard > Chameleon,Furcifer > pardalis,"Panther Chameleon
+ > Furcifer pardalis",LICHA,PANCH,,,,,,,,,121,furcifer pardalis,6K4Y8,species,,6K4Y8,
+Lizard,Cordylid,,,Armadillo Girdled Lizard,,,Armadillo Girdled Lizard  ,Ouroborus cataphractus,O.cataphractus,Animalia,Chordata,Reptilia,Squamata,,,,,Cordylidae,,,Ouroborus,,cataphractus,,,,Lizard > Cordylid,Ouroborus > cataphractus,"Armadillo Girdled Lizard
+ > Ouroborus cataphractus",LICOR,ARMGR,,,,,,,,,122,ouroborus cataphractus,4B9F9,species,,4B9F9,
+Lizard,Cordylid,,,Sungazer,giant girdled lizard,giant dragon lizard,Sungazer giant girdled lizard giant dragon lizard,Smaug giganteus,S. giganteus,Animalia,Chordata,Reptilia,Squamata,,,,,Cordylidae,,,Smaug,,giganteus,,,,Lizard > Cordylid,Smaug > giganteus,"Sungazer
+ > Smaug giganteus",LICOR,SUNGZ,,,,,,,,,123,smaug giganteus,4XVBV,species,,4XVBV,
+Lizard,Gecko,,,Knob-Tailed Gecko,,,Knob-Tailed Gecko  ,Nephrurus levis*,N.levis*,Animalia,Chordata,Reptilia,Squamata,,,,,Carphodactylidae,,,Nephrurus,,levis*,,,,Lizard > Gecko,Nephrurus > levis*,"Knob-Tailed Gecko
+ > Nephrurus levis*",LIGEC,KNBGK,,,,,,,,,124,nephrurus levis,472RS,species,,472RS,
+Lizard,Gecko,,,Crested Gecko,Eyelash Gecko,,Crested Gecko Eyelash Gecko ,Correlophus ciliatus,C.ciliatus,Animalia,Chordata,Reptilia,Squamata,,,,,Diplodactylidae,,,Correlophus,,ciliatus,,,,Lizard > Gecko,Correlophus > ciliatus,"Crested Gecko
+ > Correlophus ciliatus",LIGEC,CREGK,,,,,,,,,125,correlophus ciliatus,YHKB,species,,YHKB,
+Lizard,Gecko,,,Gargoyle Gecko,,,Gargoyle Gecko  ,Rhacodactylus auriculatus,R.auriculatus,Animalia,Chordata,Reptilia,Squamata,,,,,Diplodactylidae,,,Rhacodactylus,,auriculatus,,,,Lizard > Gecko,Rhacodactylus > auriculatus,"Gargoyle Gecko
+ > Rhacodactylus auriculatus",LIGEC,GARGK,,,,,,,,,126,rhacodactylus auriculatus,4RX4K,species,,4RX4K,
+Lizard,Gecko,,,New Caledonian Giant Gecko,Leachie Gecko,Leach's Giant Gecko,New Caledonian Giant Gecko Leachie Gecko Leach's Giant Gecko,Rhacodactylus leachianus,R.leachianus,Animalia,Chordata,Reptilia,Squamata,,,,,Diplodactylidae,,,Rhacodactylus,,leachianus,,,,Lizard > Gecko,Rhacodactylus > leachianus,"New Caledonian Giant Gecko
+ > Rhacodactylus leachianus",LIGEC,LEAGK,,,,,,,,,127,rhacodactylus leachianus,4RX4R,species,,4RX4R,
+Lizard,Gecko,,,West Indian Leopard Gecko,,,West Indian Leopard Gecko  ,Eublepharis fuscus,E.fuscus,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Eublepharis,,fuscus,,,,Lizard > Gecko,Eublepharis > fuscus,"West Indian Leopard Gecko
+ > Eublepharis fuscus",LIGEC,WINGK,,,,,,,,,128,eublepharis fuscus,6GSJS,species,,6GSJS,
+Lizard,Gecko,,,Leopard gecko,,,Leopard gecko  ,Eublepharis macularius,E.macularius,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Eublepharis,,macularius,,,,Lizard > Gecko,Eublepharis > macularius,"Leopard gecko
+ > Eublepharis macularius",LIGEC,LEOGK,,,,,,,,,129,eublepharis macularius,3BNV5,species,,3BNV5,
+Lizard,Gecko,,,Afghan leopard gecko *,,,Afghan leopard gecko *  ,Eublepharis macularius afghanicus,E.macularius afghanicus,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Eublepharis,,macularius,afghanicus,,,Lizard > Gecko,"Eublepharis > macularius > 
+ > afghanicus","Afghan leopard gecko *
+ > Eublepharis macularius afghanicus",LIGEC,AFLGK,,,,,,,,,130,eublepharis macularius afghanicus,7GRQ3,subspecies,,7GRQ3,
+Lizard,Gecko,,,Satpuraensis Leopard Gecko,,,Satpuraensis Leopard Gecko  ,Eublepharis satpuraensis,E.satpuraensis,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Eublepharis,,satpuraensis,,,,Lizard > Gecko,Eublepharis > satpuraensis,"Satpuraensis Leopard Gecko
+ > Eublepharis satpuraensis",LIGEC,SATGK,,,,,,,,,131,eublepharis satpuraensis,6H4K4,species,,6H4K4,
+Lizard,Gecko,,,Indian Leopard Gecko,,,Indian Leopard Gecko  ,Eublepharis*,E. spp,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Eublepharis*,,,,,,Lizard > Gecko,Eublepharis* >,"Indian Leopard Gecko
+ > Eublepharis*",LIGEC,INDGK,,,,,,,,,132,eublepharis,96RZ8,genus,,96RZ8,
+Lizard,Gecko,,,Cat Gecko,Cat Eyed Gecko,,Cat Gecko Cat Eyed Gecko ,Aeluroscalabotes felinus,A. felinus,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Aeluroscalabotes,,felinus,,,,Lizard > Gecko,Aeluroscalabotes > felinus,"Cat Gecko
+ > Aeluroscalabotes felinus",LIGEC,CATGK,,,,,,,,,133,aeluroscalabotes felinus,659ZK,species,,659ZK,
+Lizard,Gecko,,,African Fat-Tailed Gecko,Fat-Tail Gecko,,African Fat-Tailed Gecko Fat-Tail Gecko ,Hemitheconyx caudicinctus,H.caudicinctus,Animalia,Chordata,Reptilia,Squamata,,,,,Eublepharidae,,,Hemitheconyx,,caudicinctus,,,,Lizard > Gecko,Hemitheconyx > caudicinctus,"African Fat-Tailed Gecko
+ > Hemitheconyx caudicinctus",LIGEC,AFTGK,,,,,,,,,134,hemitheconyx caudicinctus,3KTFP,species,,3KTFP,
+Lizard,Gecko,,,Tokay Gecko,,,Tokay Gecko  ,Gekko gecko,G.gecko,Animalia,Chordata,Reptilia,Squamata,,,,,Gekkonidae,,,Gekko,,gecko,,,,Lizard > Gecko,Gekko > gecko,"Tokay Gecko
+ > Gekko gecko",LIGEC,TOKGK,,,,,,,,,135,gekko gecko,3FH5H,species,,3FH5H,
+Lizard,Gecko,,,Madagascar Day Gecko,,,Madagascar Day Gecko  ,Phelsuma * *,P.* *,Animalia,Chordata,Reptilia,Squamata,,,,,Gekkonidae,Uroplatinae,,Phelsuma,,*,*,,,Lizard > Gecko,"Phelsuma > * > 
+ > *","Madagascar Day Gecko
+ > Phelsuma * *",LIGEC,MDYGK,,,,,,,,,136,phelsuma,6N56,genus,,6N56,
+Lizard,Gecko,,,Leaf Tailed Gecko,,,Leaf Tailed Gecko  ,Uroplatus *,U.*,Animalia,Chordata,Reptilia,Squamata,,,,,Gekkonidae,,,Uroplatus,,*,,,,Lizard > Gecko,Uroplatus > *,"Leaf Tailed Gecko
+ > Uroplatus *",LIGEC,LFTGK,,,,,,,,,137,uroplatus,63W9N,genus,,63W9N,
+Lizard,Helodermatidae,,,Mexican Beaded Lizard,,,Mexican Beaded Lizard  ,Heloderma horridum,H.horridum,Animalia,Chordata,Reptilia,Squamata,,,,,Helodermatidae,,,Heloderma,,horridum,,,,Lizard > Helodermatidae,Heloderma > horridum,"Mexican Beaded Lizard
+ > Heloderma horridum",LIHEL,MXBDL,,,,,,,,,138,heloderma horridum,3KGXY,species,,3KGXY,
+Lizard,Helodermatidae,,,Gila Monster,,,Gila Monster  ,Heloderma suspectum,H.suspectum,Animalia,Chordata,Reptilia,Squamata,,,,,Helodermatidae,,,Heloderma,,suspectum,,,,Lizard > Helodermatidae,Heloderma > suspectum,"Gila Monster
+ > Heloderma suspectum",LIHEL,GILMO,,,,,,,,,139,heloderma suspectum,3KGXZ,species,,3KGXZ,
+Lizard,Hybrid,,,Galapagos Land Iguana X Marine,,,Galapagos Land Iguana X Marine  ,hybrid,*,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Hybrid,,,Hybrid,,*,*,,,Lizard > Hybrid,"Hybrid > * > 
+ > *","Galapagos Land Iguana X Marine
+ > hybrid",LIHYB,GALLX,,,,,,,,,140,hybrid,,genus not found,hybrid,,
+Lizard,Iguana,,,Fiji Banded Iguana,Central Fijian Banded Iguana,,Fiji Banded Iguana Central Fijian Banded Iguana ,Brachylophus bulabula,B.bulabula,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Brachylophus,,bulabula,,,,Lizard > Iguana,Brachylophus > bulabula,"Fiji Banded Iguana
+ > Brachylophus bulabula",LIIGU,FJBBL,,,,,,,,,141,brachylophus bulabula,MX3J,species,,MX3J,
+Lizard,Iguana,,,Fiji Banded Iguana,Lau Banded Iguana,,Fiji Banded Iguana Lau Banded Iguana ,Brachylophus fasciatus,B.fasciatus,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Brachylophus,,fasciatus,,,,Lizard > Iguana,Brachylophus > fasciatus,"Fiji Banded Iguana
+ > Brachylophus fasciatus",LIIGU,FJBFC,,,,,,,,,142,brachylophus fasciatus,MX3K,species,,MX3K,
+Lizard,Iguana,,,Fiji Crested Iguana,,,Fiji Crested Iguana  ,Brachylophus vitiensis,B.vitiensis,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Brachylophus,,vitiensis,,,,Lizard > Iguana,Brachylophus > vitiensis,"Fiji Crested Iguana
+ > Brachylophus vitiensis",LIIGU,FJCRE,,,,,,,,,143,brachylophus vitiensis,MX3L,species,,MX3L,
+Lizard,Iguana,,,Yucatan Spiny-Tailed Iguana,,,Yucatan Spiny-Tailed Iguana  ,Cachryx defensor,C.defensor,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cachryx,,defensor,,,,Lizard > Iguana,Cachryx > defensor,"Yucatan Spiny-Tailed Iguana
+ > Cachryx defensor",LIIGU,YUSPI,,,,,,,,,144,cachryx defensor,9XHYV,species,,9XHYV,
+Lizard,Iguana,,,Galapagos Pink Land Iguana,,,Galapagos Pink Land Iguana  ,Conolophus marthae,C.marthae,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Conolophus,,marthae,,,,Lizard > Iguana,Conolophus > marthae,"Galapagos Pink Land Iguana
+ > Conolophus marthae",LIIGU,GALPI,,,,,,,,,145,conolophus marthae,5ZTVP,species,,5ZTVP,
+Lizard,Iguana,,,Galapagos Land Iguana,,,Galapagos Land Iguana  ,Conolophus subcristatus,C.subcristatus,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Conolophus,,subcristatus,,,,Lizard > Iguana,Conolophus > subcristatus,"Galapagos Land Iguana
+ > Conolophus subcristatus",LIIGU,GALLI,,,,,,,,,146,conolophus subcristatus,5ZTW3,species,,5ZTW3,
+Lizard,Iguana,,,Spiny-Tailed Iguana,,,Spiny-Tailed Iguana  ,Ctenosaura* sp*,C.sp*,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Ctenosaura*,,sp*,,,,Lizard > Iguana,Ctenosaura* > sp*,"Spiny-Tailed Iguana
+ > Ctenosaura* sp*",LIIGU,SPTIG,,,,,,,,,147,ctenosaura sp,3X3S,Genus Matched. Species not found,ctenosaura sp,3X3S,
+Lizard,Iguana,,,Balsas Spiny-Tailed iguana,Balsas armed lizard,nopiche,Balsas Spiny-Tailed iguana Balsas armed lizard nopiche,Ctenosaura clarki,C. clarki,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Ctenosaura,,clarki,,,,Lizard > Iguana,Ctenosaura > clarki,"Balsas Spiny-Tailed iguana
+ > Ctenosaura clarki",LIIGU,BLSTI,,,,,,,,,148,ctenosaura clarki,32765,species,,32765,
+Lizard,Iguana,,,Turks and Caicos Rock Iguana,,,Turks and Caicos Rock Iguana  ,Cyclura,C.carinata,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,carinata,,,,Lizard > Iguana,Cyclura > carinata,"Turks and Caicos Rock Iguana
+ > Cyclura",LIIGU,TCRIG,,,,,,,,,149,cyclura,926GH,genus,,926GH,
+Lizard,Iguana,,,Rhinoceros Iguana,,,Rhinoceros Iguana  ,Cyclura cornuta,C.cornuta,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,cornuta,,,,Lizard > Iguana,Cyclura > cornuta,"Rhinoceros Iguana
+ > Cyclura cornuta",LIIGU,RHIIG,,,,,,,,,150,cyclura cornuta,32YSW,species,,32YSW,
+Lizard,Iguana,,,Exuma Island Iguana,,,Exuma Island Iguana  ,Cyclura cychlura figginsi,C.c.figginsi,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,cychlura,figginsi,,,Lizard > Iguana,"Cyclura > cychlura > 
+ > figginsi","Exuma Island Iguana
+ > Cyclura cychlura figginsi",LIIGU,EXUIG,,,,,,,,,151,cyclura cychlura figginsi,5DYNR,subspecies,,5DYNR,
+Lizard,Iguana,,,Grand Cayman Blue Iguana,Grand Cayman Ground iguana,,Grand Cayman Blue Iguana Grand Cayman Ground iguana ,Cyclura lewisi,C.lewisi,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,lewisi,,,,Lizard > Iguana,Cyclura > lewisi,"Grand Cayman Blue Iguana
+ > Cyclura lewisi",LIIGU,GCBIG,,,,,,,,,152,cyclura lewisi,32YT6,species,,32YT6,
+Lizard,Iguana,,,Cuban Rock Iguana,,,Cuban Rock Iguana  ,Cyclura nubila,C.nubila,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,nubila,,,,Lizard > Iguana,Cyclura > nubila,"Cuban Rock Iguana
+ > Cyclura nubila",LIIGU,CURIG,,,,,,,,,153,cyclura nubila,6BTN8,species,,6BTN8,
+Lizard,Iguana,,,Rock Iguana (Caribbean rock iguana),,,Rock Iguana (Caribbean rock iguana)  ,Cyclura,C.sp*,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Cyclura,,sp*,,,,Lizard > Iguana,Cyclura > sp*,"Rock Iguana (Caribbean rock iguana)
+ > Cyclura",LIIGU,CROIG,,,,,,,,,154,cyclura,926GH,genus,,926GH,
+Lizard,Iguana,,,Lesser Antillean Iguana,,,Lesser Antillean Iguana  ,Iguana delicatissima,I.delicatissima,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Iguana,,delicatissima,,,,Lizard > Iguana,Iguana > delicatissima,"Lesser Antillean Iguana
+ > Iguana delicatissima",LIIGU,LEAIG,,,,,,,,,155,iguana delicatissima,6N73J,species,,6N73J,
+Lizard,Iguana,,,Iguana,,,Iguana  ,Iguana Iguana,I.Iguana,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Iguana,,Iguana,,,,Lizard > Iguana,Iguana > Iguana,"Iguana
+ > Iguana Iguana",LIIGU,COMIG,,,,,,,,,156,iguana iguana,6MV3G,species,,6MV3G,
+Lizard,Iguana,,,St. Thomas Island Iguana,,,St. Thomas Island Iguana  ,Iguana iguana* sp*,I.iguana* sp*,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Iguana,,iguana*,sp*,,,Lizard > Iguana,"Iguana > iguana* > 
+ > sp*","St. Thomas Island Iguana
+ > Iguana iguana* sp*",LIIGU,STIIG,,,,,,,,,157,iguana iguana sp,6MV3G,species,,6MV3G,
+Lizard,Iguana,,,St. Lucia Iguana,,,St. Lucia Iguana  ,Iguana iguana* sp*,I.iguana* sp*,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Iguanidae,,,Iguana,,iguana*,sp*,,,Lizard > Iguana,"Iguana > iguana* > 
+ > sp*","St. Lucia Iguana
+ > Iguana iguana* sp*",LIIGU,STLIG,,,,,,,,,158,iguana iguana sp,6MV3G,species,,6MV3G,
+Lizard,Lacertidae,,,Green keel bellied lizard,,,Green keel bellied lizard  ,Gastropholis prasina,G.prasina,Animalia,Chordata,Reptilia,Squamata,,,,,Lacertidae,,,Gastropholis,,prasina,,,,Lizard > Lacertidae,Gastropholis > prasina,"Green keel bellied lizard
+ > Gastropholis prasina",LILAC,GKBLL,,,,,,,,,159,gastropholis prasina,3FDVG,species,,3FDVG,
+Lizard,Monitor,,,Borneo Earless Monitor Lizard,,,Borneo Earless Monitor Lizard  ,Lanthanotus borneensis,L. borneensis,Animalia,Chordata,Reptilia,Squamata,,,,,Lanthanotidae,,,Lanthanotus,,borneensis,,,,Lizard > Monitor,Lanthanotus > borneensis,"Borneo Earless Monitor Lizard
+ > Lanthanotus borneensis",LIMON,BRELM,,,,,,,,,160,lanthanotus borneensis,3S7W2,species,,3S7W2,
+Lizard,Monitor,,,Tree Monitor*,,,Tree Monitor*  ,Varanus hapturosaurus sp,V. hapturosaurus sp,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,*,,,,Lizard > Monitor,Varanus > *,"Tree Monitor*
+ > Varanus hapturosaurus sp",LIMON,TREEM,,,,,,,,,161,varanus hapturosaurus sp,7FG77,Genus Matched. Species not found,varanus hapturosaurus sp,7FG77,
+Lizard,Monitor,,,Black-Throated Monitor,,,Black-Throated Monitor  ,Varanus albigularis microstictus,V. a. microstictus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Polydaedalus,albigularis,microstictus,,,Lizard > Monitor,"Varanus > albigularis > 
+ > microstictus","Black-Throated Monitor
+ > Varanus albigularis microstictus",LIMON,BKTHM,,,,,,,,,162,varanus albigularis microstictus,7J5QT,subspecies,,7J5QT,
+Lizard,Monitor,,,Peacock Monitor,Auffenberg's Monitor,,Peacock Monitor Auffenberg's Monitor ,Varanus auffenbergi,V. auffenbergi,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Odatria,auffenbergi,,,,Lizard > Monitor,Varanus > auffenbergi,"Peacock Monitor
+ > Varanus auffenbergi",LIMON,PKKMN,,,,,,,,,163,varanus auffenbergi,7FGCC,species,,7FGCC,
+Lizard,Monitor,,,Black Tree Monitor,Beccari's Tree Monitor,,Black Tree Monitor Beccari's Tree Monitor ,Varanus beccarii,V.beccarii,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,beccarii,,,,Lizard > Monitor,Varanus > beccarii,"Black Tree Monitor
+ > Varanus beccarii",LIMON,BLKTM,,,,,,,,,164,varanus beccarii,7FGF3,species,,7FGF3,
+Lizard,Monitor,,,Cumingi Water Monitor,Yellow Headed Water Monitor (cumingi),Cumings water monitor,Cumingi Water Monitor Yellow Headed Water Monitor (cumingi) Cumings water monitor,Varanus cumingi,V.cumingi,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Soterosaurus,cumingi,,,,Lizard > Monitor,Varanus > cumingi,"Cumingi Water Monitor
+ > Varanus cumingi",LIMON,CUMWM,,,,,,,,,165,varanus cumingi,7FGDM,species,,7FGDM,
+Lizard,Monitor,,,Blue Tailed Monitor,Blue-Tailed Tree Monitor,Kalabeck's monitor,Blue Tailed Monitor Blue-Tailed Tree Monitor Kalabeck's monitor,Varanus doreanus,V.doreanus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,doreanus,,,,Lizard > Monitor,Varanus > doreanus,"Blue Tailed Monitor
+ > Varanus doreanus",LIMON,BLTLM,,,,,,,,,166,varanus doreanus,7FGDZ,species,,7FGDZ,
+Lizard,Monitor,,,Dumeril's Monitor,,,Dumeril's Monitor  ,Varanus dumerilii,V.dumerilii,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Empagusia,dumerilii,,,,Lizard > Monitor,Varanus > dumerilii,"Dumeril's Monitor
+ > Varanus dumerilii",LIMON,DUMRM,,,,,,,,,167,varanus dumerilii,7FGDW,species,,7FGDW,
+Lizard,Monitor,,,Savannah Monitor,,,Savannah Monitor  ,Varanus exanthematicus,V. exanthematicus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Polydaedalus,exanthematicus,,,,Lizard > Monitor,Varanus > exanthematicus,"Savannah Monitor
+ > Varanus exanthematicus",LIMON,SAVAM,,,,,,,,,168,varanus exanthematicus,7FGDT,species,,7FGDT,
+Lizard,Monitor,,,Finsch's Monitor,,,Finsch's Monitor  ,Varanus finschi,V.finschi,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,finschi,,,,Lizard > Monitor,Varanus > finschi,"Finsch's Monitor
+ > Varanus finschi",LIMON,FINCM,,,,,,,,,169,varanus finschi,7FFVF,species,,7FFVF,
+Lizard,Monitor,,,Perentie Monitor,,,Perentie Monitor  ,Varanus giganteus,V.giganteus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,giganteus,,,,Lizard > Monitor,Varanus > giganteus,"Perentie Monitor
+ > Varanus giganteus",LIMON,PRNTM,,,,,,,,,170,varanus giganteus,7FG7D,species,,7FG7D,
+Lizard,Monitor,,,Kimberley Rock Monitor,,,Kimberley Rock Monitor  ,Varanus glauerti,V. glauerti,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Odatria,glauerti,,,,Lizard > Monitor,Varanus > glauerti,"Kimberley Rock Monitor
+ > Varanus glauerti",LIMON,KIMRM,,,,,,,,,171,varanus glauerti,7FFVB,species,,7FFVB,
+Lizard,Monitor,,,Mangrove Monitor,Western Pacific Monitor,Mangrove Goanna,Mangrove Monitor Western Pacific Monitor Mangrove Goanna,Varanus indicus,V.indicus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,indicus,,,,Lizard > Monitor,Varanus > indicus,"Mangrove Monitor
+ > Varanus indicus",LIMON,MANGM,,,,,,,,,172,varanus indicus,7FG7H,species,,7FG7H,
+Lizard,Monitor,,,Peach-Throated Monitor,Sepik Monitor,,Peach-Throated Monitor Sepik Monitor ,Varanus jobiensis,V. jobiensis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,jobiensis,,,,Lizard > Monitor,Varanus > jobiensis,"Peach-Throated Monitor
+ > Varanus jobiensis",LIMON,PCTHM,,,,,,,,,173,varanus jobiensis,7FFW7,species,,7FFW7,
+Lizard,Monitor,,,Komodo Dragon,,,Komodo Dragon  ,Varanus komodoensis,V.komodoensis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,komodoensis,,,,Lizard > Monitor,Varanus > komodoensis,"Komodo Dragon
+ > Varanus komodoensis",LIMON,KMDDR,,,,,,,,,174,varanus komodoensis,7FFW5,species,,7FFW5,
+Lizard,Monitor,,,Biak Tree Monitor,Kordo Tree Monitor,,Biak Tree Monitor Kordo Tree Monitor ,Varanus kordensis,V.kordensis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,kordensis,,,,Lizard > Monitor,Varanus > kordensis,"Biak Tree Monitor
+ > Varanus kordensis",LIMON,BITRM,,,,,,,,,175,varanus kordensis,7FG7T,species,,7FG7T,
+Lizard,Monitor,,,Blue Tree Monitor,Blue-Spotted Tree Monitor,,Blue Tree Monitor Blue-Spotted Tree Monitor ,Varanus macraei,V.macraei,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,macraei,,,,Lizard > Monitor,Varanus > macraei,"Blue Tree Monitor
+ > Varanus macraei",LIMON,BLTRM,,,,,,,,,176,varanus macraei,7FFW3,species,,7FFW3,
+Lizard,Monitor,,,Quince Monitor,,,Quince Monitor  ,Varanus melinus,V.melinus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,melinus,,,,Lizard > Monitor,Varanus > melinus,"Quince Monitor
+ > Varanus melinus",LIMON,QINCM,,,,,,,,,177,varanus melinus,7FFW2,species,,7FFW2,
+Lizard,Monitor,,,Mertens' Water Monitor,,,Mertens' Water Monitor  ,Varanus mertensi,V.mertensi,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,mertensi,,,,Lizard > Monitor,Varanus > mertensi,"Mertens' Water Monitor
+ > Varanus mertensi",LIMON,MERTM,,,,,,,,,178,varanus mertensi,7FG7Q,species,,7FG7Q,
+Lizard,Monitor,,,Clouded Monitor,,,Clouded Monitor  ,Varanus nebulosus,V.nebulosus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Empagusia,nebulosus,,,,Lizard > Monitor,Varanus > nebulosus,"Clouded Monitor
+ > Varanus nebulosus",LIMON,CLODM,,,,,,,,,179,varanus nebulosus,7FG7P,species,,7FG7P,
+Lizard,Monitor,,,Nile Monitor,African Small-Grain Lizard,,Nile Monitor African Small-Grain Lizard ,Varanus niloticus,V.niloticus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Polydaedalus,niloticus,,,,Lizard > Monitor,Varanus > niloticus,"Nile Monitor
+ > Varanus niloticus",LIMON,NILEM,,,,,,,,,180,varanus niloticus,7FG7Z,species,,7FG7Z,
+Lizard,Monitor,,,Nuchalis Monitor,Large-Scaled Water Monitor,Rough Necked Water Monitor,Nuchalis Monitor Large-Scaled Water Monitor Rough Necked Water Monitor,Varanus nuchalis,V. nuchalis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Soterosaurus,nuchalis,,,,Lizard > Monitor,Varanus > nuchalis,"Nuchalis Monitor
+ > Varanus nuchalis",LIMON,NUCHM,,,,,,,,,181,varanus nuchalis,7FFVY,species,,7FFVY,
+Lizard,Monitor,,,Obor Monitor,Sago Monitor,Torch Monitor,Obor Monitor Sago Monitor Torch Monitor,Varanus obor,V. obor,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,obor,,,,Lizard > Monitor,Varanus > obor,"Obor Monitor
+ > Varanus obor",LIMON,OBORM,,,,,,,,,182,varanus obor,7FG7Y,species,,7FG7Y,
+Lizard,Monitor,,,Gray's Monitor,Ornate Monitor,,Gray's Monitor Ornate Monitor ,Varanus olivaceus,V.olivaceus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Philippinosaurus,olivaceus,,,,Lizard > Monitor,Varanus > olivaceus,"Gray's Monitor
+ > Varanus olivaceus",LIMON,GRAYM,,,,,,,,,183,varanus olivaceus,7FG7X,species,,7FG7X,
+Lizard,Monitor,,,Argus Monitor,Yellow Spotted Monitor,,Argus Monitor Yellow Spotted Monitor ,Varanus panoptes,V.panoptes,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,panoptes,,,,Lizard > Monitor,Varanus > panoptes,"Argus Monitor
+ > Varanus panoptes",LIMON,ARGUM,,,,,,,,,184,varanus panoptes,7FG6D,species,,7FG6D,
+Lizard,Monitor,,,Emerald Tree Monitor,Green Tree Monitor,,Emerald Tree Monitor Green Tree Monitor ,Varanus prasinus,V.prasinus,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,prasinus,,,,Lizard > Monitor,Varanus > prasinus,"Emerald Tree Monitor
+ > Varanus prasinus",LIMON,EMTRM,,,,,,,,,185,varanus prasinus,7FG6L,species,,7FG6L,
+Lizard,Monitor,,,Yellow Tree Monitor,Reisinger's Tree Monitor,,Yellow Tree Monitor Reisinger's Tree Monitor ,Varanus reisingeri,V. reisingeri,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Hapturosaurus,reisingeri,,,,Lizard > Monitor,Varanus > reisingeri,"Yellow Tree Monitor
+ > Varanus reisingeri",LIMON,YETRM,,,,,,,,,186,varanus reisingeri,7FFV5,species,,7FFV5,
+Lizard,Monitor,,,Roughneck Monitor,Rough Necked Monitor,Black Roughneck monitor,Roughneck Monitor Rough Necked Monitor Black Roughneck monitor,Varanus rudicollis,V. rudicollis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Empagusia,rudicollis,,,,Lizard > Monitor,Varanus > rudicollis,"Roughneck Monitor
+ > Varanus rudicollis",LIMON,ROUGM,,,,,,,,,187,varanus rudicollis,7FG75,species,,7FG75,
+Lizard,Monitor,,,Crocodile Monitor,,,Crocodile Monitor  ,Varanus salvadorii,V.salvadorii,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Papusaurus,salvadorii,,,,Lizard > Monitor,Varanus > salvadorii,"Crocodile Monitor
+ > Varanus salvadorii",LIMON,CROCM,,,,,,,,,188,varanus salvadorii,7FG6S,species,,7FG6S,
+Lizard,Monitor,,,Asian Water Monitor,,,Asian Water Monitor  ,Varanus salvator,V.salvator,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Soterosaurus,salvator,,,,Lizard > Monitor,Varanus > salvator,"Asian Water Monitor
+ > Varanus salvator",LIMON,ASAWM,,,,,,,,,189,varanus salvator,7FG74,species,,7FG74,
+Lizard,Monitor,,,Asian Water Monitor - Black Dragon,Black Dragon Monitor,,Asian Water Monitor - Black Dragon Black Dragon Monitor ,Varanus salvator komaini,V.salvator komaini,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Soterosaurus,salvator,komaini*,,,Lizard > Monitor,"Varanus > salvator > 
+ > komaini*","Asian Water Monitor - Black Dragon
+ > Varanus salvator komaini",LIMON,BLDWM,,,,,,,,,190,varanus salvator komaini,8FSHN,subspecies,,8FSHN,
+Lizard,Monitor,,,Asian Water Monitor - Celebensis,Celebensis Monitor,,Asian Water Monitor - Celebensis Celebensis Monitor ,Varanus salvator celebensis,V.salvator komaini,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Soterosaurus,salvator,celebensis,,,Lizard > Monitor,"Varanus > salvator > 
+ > celebensis","Asian Water Monitor - Celebensis
+ > Varanus salvator celebensis",LIMON,CLBWM,,,,,,,,,191,varanus salvator celebensis,8SCT6,subspecies,,8SCT6,
+Lizard,Monitor,,,Spencer's Monitor,Spencer's Goanna,,Spencer's Monitor Spencer's Goanna ,Varanus spenceri,V.spenceri,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,spenceri,,,,Lizard > Monitor,Varanus > spenceri,"Spencer's Monitor
+ > Varanus spenceri",LIMON,SPENM,,,,,,,,,192,varanus spenceri,7FG6Y,species,,7FG6Y,
+Lizard,Monitor,,,Black Tailed Monitor,Black Headed Monitor,,Black Tailed Monitor Black Headed Monitor ,Varanus Odatriatristis,V. Odatriatristis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Odatria,tristis*,*,,,Lizard > Monitor,"Varanus > tristis* > 
+ > *","Black Tailed Monitor
+ > Varanus Odatriatristis",LIMON,BKTLM,,,,,,,,,193,varanus odatriatristis,7FG77,Genus Matched. Species not found,varanus odatriatristis,7FG77,
+Lizard,Monitor,,,Lace Monitor,Tree Goanna,,Lace Monitor Tree Goanna ,Varanus varius,V.varius,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Varanus,varius,,,,Lizard > Monitor,Varanus > varius,"Lace Monitor
+ > Varanus varius",LIMON,LACEM,,,,,,,,,194,varanus varius,7FG9C,species,,7FG9C,
+Lizard,Monitor,,,Tricolour Monitor,Black-Backed Mangrove Monitor,Black-Backed Monitor,Tricolour Monitor Black-Backed Mangrove Monitor Black-Backed Monitor,Varanus yuwonoi,V.yuwonoi,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,Euprepiosaurus,yuwonoi,,,,Lizard > Monitor,Varanus > yuwonoi,"Tricolour Monitor
+ > Varanus yuwonoi",LIMON,TRICM,,,,,,,,,195,varanus yuwonoi,7FG9P,species,,7FG9P,
+Lizard,Monitor,,,Monitor - Indian,,,Monitor - Indian  ,Varanus spp.,V. spp.,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,,,,,,Lizard > Monitor,Varanus >,"Monitor - Indian
+ > Varanus spp.",LIMON,INDIM,,,,,,,,,196,varanus spp,7FG77,Genus Matched. Species not found,varanus spp,7FG77,
+Lizard,Monitor,,,Monitor*,,,Monitor*  ,Varanus spp.,V. spp.,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,,,,,,Lizard > Monitor,Varanus >,"Monitor*
+ > Varanus spp.",LIMON,MONIT,,,,,,,,,197,varanus spp,7FG77,Genus Matched. Species not found,varanus spp,7FG77,
+Lizard,Monitor,,,Bengal Water Monitor,,,Bengal Water Monitor  ,Varanus bengalensis,V. bengalensis,Animalia,Chordata,Reptilia,Squamata,,,,,Varanidae,,,Varanus,,bengalensis,,,,Lizard > Monitor,Varanus > bengalensis,"Bengal Water Monitor
+ > Varanus bengalensis",LIMON,BNGAM,,,,,,,,,198,varanus bengalensis,7FGF9,species,,7FGF9,
+Lizard,Shinisauridae,,,Shinisaurus,,,Shinisaurus  ,Shinisaurus crocodilurus,S. crocodilurus,Animalia,Chordata,Reptilia,Squamata,,Shinisauria,,,Shinisauridae,,,Shinisaurus,,crocodilurus,,,,Lizard > Shinisauridae,Shinisaurus > crocodilurus,"Shinisaurus
+ > Shinisaurus crocodilurus",LISHI,SHINI,,,,,,,,,199,shinisaurus crocodilurus,4X4PH,species,,4X4PH,
+Lizard,Skink,,,Major Skink - (Bellatorias),,,Major Skink - (Bellatorias)  ,Bellatorias frerei,B. frerei,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Bellatorias,,Bellatorias frerei,,,,Lizard > Skink,Bellatorias > Bellatorias frerei,"Major Skink - (Bellatorias)
+ > Bellatorias frerei",LISKI,MAJSK,,,,,,,,,200,bellatorias frerei,5WGNN,species,,5WGNN,
+Lizard,Skink,,,Monkey Tailed Skink,Solomon Island Skink,Prehensile-Tailed Skink,Monkey Tailed Skink Solomon Island Skink Prehensile-Tailed Skink,Corucia zebrata,C. Zebrata,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Corucia,,zebrata,,,,Lizard > Skink,Corucia > zebrata,"Monkey Tailed Skink
+ > Corucia zebrata",LISKI,MTLSK,,,,,,,,,201,corucia zebrata,6B64B,species,,6B64B,
+Lizard,Skink,,,Spiny Tailed Skink (Egernia sp),,,Spiny Tailed Skink (Egernia sp)  ,Egernia sp.,E. sp.,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Egernia,,sp.,,,,Lizard > Skink,Egernia > sp.,"Spiny Tailed Skink (Egernia sp)
+ > Egernia sp.",LISKI,SPTSK,,,,,,,,,202,egernia sp,632MD,Genus Matched. Species not found,egernia sp,632MD,
+Lizard,Skink,,,Skink (pos Sun Skink - Mabuya),Golden Skink,Many Striped Sun Skink,Skink (pos Sun Skink - Mabuya) Golden Skink Many Striped Sun Skink,Eutropis multifasciata,E. multifasciata,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Eutropis,,multifasciata,,,,Lizard > Skink,Eutropis > multifasciata,"Skink (pos Sun Skink - Mabuya)
+ > Eutropis multifasciata",LISKI,SUNSK,,,,,,,,,203,eutropis multifasciata,6HKDH,species,,6HKDH,
+Lizard,Skink,,,Sandfish Skink,,,Sandfish Skink  ,Scincus scincus,S. scincus,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Scincus,,scincus,,,,Lizard > Skink,Scincus > scincus,"Sandfish Skink
+ > Scincus scincus",LISKI,SNDSK,,,,,,,,,204,scincus scincus,4VK6R,species,,4VK6R,
+Lizard,Skink,,,Centralian Blue-Tongued Skink,,,Centralian Blue-Tongued Skink  ,Tiliqua multifasciata,T. multifasciata,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,multifasciata,,,,Lizard > Skink,Tiliqua > multifasciata,"Centralian Blue-Tongued Skink
+ > Tiliqua multifasciata",LISKI,CTBTS,,,,,,,,,205,tiliqua multifasciata,56WZM,species,,56WZM,
+Lizard,Skink,,,Blue-Tongued Skink*,,,Blue-Tongued Skink*  ,Tiliqua spp.,T. spp.,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,multifasciata,,,,Lizard > Skink,Tiliqua > multifasciata,"Blue-Tongued Skink*
+ > Tiliqua spp.",LISKI,BLUTS,,,,,,,,,206,tiliqua spp,56WZ2,Genus Matched. Species not found,tiliqua spp,56WZ2,
+Lizard,Skink,,,Western Blue-Tongued Skink,,,Western Blue-Tongued Skink  ,Tiliqua occipitalis,T. occipitalis,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,occipitalis,,,,Lizard > Skink,Tiliqua > occipitalis,"Western Blue-Tongued Skink
+ > Tiliqua occipitalis",LISKI,WEBTS,,,,,,,,,207,tiliqua occipitalis,56WZS,species,,56WZS,
+Lizard,Skink,,,Shingleback Skink,,,Shingleback Skink  ,Tiliqua rugosa sspp.,T. rugosa sspp.,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Tiliqua,,rugosa,ssp.,,,Lizard > Skink,"Tiliqua > rugosa > 
+ > ssp.","Shingleback Skink
+ > Tiliqua rugosa sspp.",LISKI,SHBSK,,,,,,,,,208,tiliqua rugosa sspp,56X25,species,,56X25,
+Lizard,Skink,,,Common Blue-Tongued Skink,,,Common Blue-Tongued Skink  ,Tiliqua scincoides,T. scincoides,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,scincoides,,,,Lizard > Skink,Tiliqua > scincoides,"Common Blue-Tongued Skink
+ > Tiliqua scincoides",LISKI,COBTS,,,,,,,,,209,tiliqua scincoides,56X27,species,,56X27,
+Lizard,Skink,,,Tanimbar Blue-Tongued Skink,,,Tanimbar Blue-Tongued Skink  ,Tiliqua scincoides chimaerea,T. scincoides chimaerea,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,scincoides,chimaerea,,,Lizard > Skink,"Tiliqua > scincoides > 
+ > chimaerea","Tanimbar Blue-Tongued Skink
+ > Tiliqua scincoides chimaerea",LISKI,TNBTS,,,,,,,,,210,tiliqua scincoides chimaerea,5F87P,subspecies,,5F87P,
+Lizard,Skink,,,Northern Blue-Tongued Skink,,,Northern Blue-Tongued Skink  ,Tiliqua scincoides intermedia,T. scincoides intermedia,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,scincoides,intermedia,,,Lizard > Skink,"Tiliqua > scincoides > 
+ > intermedia","Northern Blue-Tongued Skink
+ > Tiliqua scincoides intermedia",LISKI,NRBTS,,,,,,,,,211,tiliqua scincoides intermedia,5F87R,subspecies,,5F87R,
+Lizard,Skink,,,Eastern Blue-Tongued Skink,,,Eastern Blue-Tongued Skink  ,Tiliqua scincoides scincoides,T. scincoides scincoides,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,scincoides,scincoides,,,Lizard > Skink,"Tiliqua > scincoides > 
+ > scincoides","Eastern Blue-Tongued Skink
+ > Tiliqua scincoides scincoides",LISKI,EABTS,,,,,,,,,212,tiliqua scincoides scincoides,5F87S,subspecies,,5F87S,
+Lizard,Skink,,,Iran Jaya Blue-Tongued Skink,,,Iran Jaya Blue-Tongued Skink  ,Tiliqua sp.,T. sp.,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,Egerniinae,,Tiliqua,,sp.,,,,Lizard > Skink,Tiliqua > sp.,"Iran Jaya Blue-Tongued Skink
+ > Tiliqua sp.",LISKI,IJBTS,,,,,,,,,213,tiliqua sp,56WZ2,Genus Matched. Species not found,tiliqua sp,56WZ2,
+Lizard,Skink,,,Red-Eyed Crocodile Skink,,,Red-Eyed Crocodile Skink  ,Tribolonotus gracilis,T. gracilis,Animalia,Chordata,Reptilia,Squamata,,,,,Scincidae,,,Tribolonotus,,gracilis,,,,Lizard > Skink,Tribolonotus > gracilis,"Red-Eyed Crocodile Skink
+ > Tribolonotus gracilis",LISKI,RECRS,,,,,,,,,214,tribolonotus gracilis,586C5,species,,586C5,
+Lizard,Tegu,,,Tegu - Black and White,Argentine Black and White Tegu,,Tegu - Black and White Argentine Black and White Tegu ,Salvator merianae,S. merianae,Animalia,Chordata,Reptilia,Squamata,,,,,Teiidae,,,Salvator,,merianae,,,,Lizard > Tegu,Salvator > merianae,"Tegu - Black and White
+ > Salvator merianae",LITEG,BNWTG,,,,,,,,,215,salvator merianae,6XFSD,species,,6XFSD,
+Lizard,Tegu,,,Tegu -Red,,,Tegu -Red  ,Salvator rufescens,S. rufescens,Animalia,Chordata,Reptilia,Squamata,,,,,Teiidae,,,Salvator,,rufescens,,,,Lizard > Tegu,Salvator > rufescens,"Tegu -Red
+ > Salvator rufescens",LITEG,REDTG,,,,,,,,,216,salvator rufescens,79FSD,species,,79FSD,
+Lizard,Tegu,,,Tegu,,,Tegu  ,Salvator sp.,S. sp.,Animalia,Chordata,Reptilia,Squamata,,,,,Teiidae,,,Salvator,,sp.,,,,Lizard > Tegu,Salvator > sp.,"Tegu
+ > Salvator sp.",LITEG,OTHTG,,,,,,,,,217,salvator sp,7BZZ,Genus Matched. Species not found,salvator sp,7BZZ,
+Lizard,Teiidae,,,Ameiva,Green Ameiva,Amazon Racerunner,Ameiva Green Ameiva Amazon Racerunner,Ameiva ameiva,A. ameiva,Animalia,Chordata,Reptilia,Squamata,,,,Lacertoidea,Teiidae,,,Ameiva,,ameiva,,,,Lizard > Teiidae,Ameiva > ameiva,"Ameiva
+ > Ameiva ameiva",LITEI,AMIEV,,,,,,,,,218,ameiva ameiva,CQKP,species,,CQKP,
+Lizard,Tropiduridae,,,Western Leaf Lizard,,,Western Leaf Lizard  ,Stenocercus fimbriatus,S. fimbriatus,Animalia,Chordata,Reptilia,Squamata,,,Iguania,,Tropiduridae,,,Stenocercus,,fimbriatus,,,,Lizard > Tropiduridae,Stenocercus > fimbriatus,"Western Leaf Lizard
+ > Stenocercus fimbriatus",LITRO,WESLZ,,,,,,,,,219,stenocercus fimbriatus,4ZWJS,species,,4ZWJS,
+Mammal,Rodent,,,Coypu Rat,Nutria,,Coypu Rat Nutria ,Myocastor coypus,M. coypus,Animalia,Chordata,Mammalia,Rodentia,,,,,Echimyidae,Echimyinae,Myocastroni,Myocastor,,coypus,,,,Mammal > Rodent,Myocastor > coypus,"Coypu Rat
+ > Myocastor coypus",MAROD,COYPU,,,,,,,,,220,myocastor coypus,6RRQT,species,,6RRQT,
+Snake,Boa,,,Madagascar Ground Boa,Malagasy ground boa,Madagascar boa,Madagascar Ground Boa Malagasy ground boa Madagascar boa,Acrantophis madagascariensis,A.madagascariensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,Sanziniinae,,Acrantophis,,madagascariensis,,,,Snake > Boa,Acrantophis > madagascariensis,"Madagascar Ground Boa
+ > Acrantophis madagascariensis",SNBOA,MDGRB,,,,,,,,,221,acrantophis madagascariensis,64MBG,species,,64MBG,
+Snake,Boa,,,Madagascar Tree Boa,,,Madagascar Tree Boa  ,Sanzinia madagascariensis,A.madagascariensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,Sanziniinae,,Sanzinia,,madagascariensis,,,,Snake > Boa,Sanzinia > madagascariensis,"Madagascar Tree Boa
+ > Sanzinia madagascariensis",SNBOA,MDTRB,,,,,,,,,222,sanzinia madagascariensis,6XK7P,species,,6XK7P,
+Snake,Boa,,,Red-Tailed Boa Constrictor,,,Red-Tailed Boa Constrictor  ,Boa constrictor constrictor,B. constrictor constrictor,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Boa,,constrictor,constrictor,,,Snake > Boa,"Boa > constrictor > 
+ > constrictor","Red-Tailed Boa Constrictor
+ > Boa constrictor constrictor",SNBOA,RTBOA,,,,,,,,,223,boa constrictor constrictor,5DNKL,subspecies,,5DNKL,
+Snake,Boa,,,Common Boa Constrictor,Central American Boa,,Common Boa Constrictor Central American Boa ,Boa constrictor imperator,B. constrictor imperator,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Boa,,constrictor,imperator,,,Snake > Boa,"Boa > constrictor > 
+ > imperator","Common Boa Constrictor
+ > Boa constrictor imperator",SNBOA,COBOA,,,,,,,,,224,boa constrictor imperator,M7TX,species,,M7TX,
+Snake,Boa,,,Hog Island Boa Constrictor,,,Hog Island Boa Constrictor  ,Boa constrictor imperator,B. constrictor imperator,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Boa,,constrictor,imperator,,,Snake > Boa,"Boa > constrictor > 
+ > imperator","Hog Island Boa Constrictor
+ > Boa constrictor imperator",SNBOA,HGBOA,,,,,,,,,225,boa constrictor imperator,M7TX,species,,M7TX,
+Snake,Boa,,,Boa Constrictor ssp*,,,Boa Constrictor ssp*  ,Boa constrictor ssp.,B. constrictor constrictor,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Boa,,constrictor,ssp.,,,Snake > Boa,"Boa > constrictor > 
+ > ssp.","Boa Constrictor ssp*
+ > Boa constrictor ssp.",SNBOA,OTBOA,,,,,,,,,226,boa constrictor ssp,M7TX,species,,M7TX,
+Snake,Boa,,,Viper Boa,New Guinea Ground Boa,,Viper Boa New Guinea Ground Boa ,Candoia aspera,C.aspera,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Candoia,,aspera,,,,Snake > Boa,Candoia > aspera,"Viper Boa
+ > Candoia aspera",SNBOA,VIBOA,,,,,,,,,227,candoia aspera,QLMV,species,,QLMV,
+Snake,Boa,,,Emerald Tree Boa,,,Emerald Tree Boa  ,Corallus caninus,C. caninus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Corallus,,caninus,,,,Snake > Boa,Corallus > caninus,"Emerald Tree Boa
+ > Corallus caninus",SNBOA,ETBOA,,,,,,,,,228,corallus caninus,5ZZDV,species,,5ZZDV,
+Snake,Boa,,,Emerald Tree Boa - Northern,,,Emerald Tree Boa - Northern  ,Corallus caninus,C. caninus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Corallus,,caninus,,,,Snake > Boa,Corallus > caninus,"Emerald Tree Boa - Northern
+ > Corallus caninus",SNBOA,ETBNO,,,,,,,,,229,corallus caninus,5ZZDV,species,,5ZZDV,
+Snake,Boa,,,Emerald Tree Boa - Amazon Basin,,,Emerald Tree Boa - Amazon Basin  ,Corallus batesii,C. batesii,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Corallus,,batesii,,,,Snake > Boa,Corallus > batesii,"Emerald Tree Boa - Amazon Basin
+ > Corallus batesii",SNBOA,ETBAM,,,,,,,,,230,corallus batesii,5ZZD9,species,,5ZZD9,
+Snake,Boa,,,Amazon Tree Boa,,,Amazon Tree Boa  ,Corallus hortulana,C. hortulana,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Corallus,,hortulana,,,,Snake > Boa,Corallus > hortulana,"Amazon Tree Boa
+ > Corallus hortulana",SNBOA,ATBOA,,,,,,,,,231,corallus hortulana,5ZZFH,species,,5ZZFH,
+Snake,Boa,,,Brazilian Rainbow Boa,,,Brazilian Rainbow Boa  ,Epicrates cenchria,E.cenchria,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Epicrates,,cenchria,,,,Snake > Boa,Epicrates > cenchria,"Brazilian Rainbow Boa
+ > Epicrates cenchria",SNBOA,BRBOA,,,,,,,,,232,epicrates cenchria,6FQT3,species,,6FQT3,
+Snake,Boa,,,Columbian Rainbow boa,,,Columbian Rainbow boa  ,Epicrates maurus,E.maurus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Epicrates,,maurus,,,,Snake > Boa,Epicrates > maurus,"Columbian Rainbow boa
+ > Epicrates maurus",SNBOA,CRBOA,,,,,,,,,233,epicrates maurus,5H4W9,species,,5H4W9,
+Snake,Boa,,,Common Sand Boa,,,Common Sand Boa  ,Eryx sp.,,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Eryx,,Eryx sp.,,,,Snake > Boa,Eryx > Eryx sp.,"Common Sand Boa
+ > Eryx sp.",SNBOA,CSBOA,,,,,,,,,234,eryx sp,3BG9J,Genus Matched. Species not found,eryx sp,3BG9J,
+Snake,Boa,,,Red Sand Boa,,,Red Sand Boa  ,Eryx jhonii,E.johnii,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Eryx,,johnii,,,,Snake > Boa,Eryx > johnii,"Red Sand Boa
+ > Eryx jhonii",SNBOA,RSNDB,,,,,,,,,235,eryx jhonii,3BG9J,Genus Matched. Species not found,eryx jhonii,3BG9J,
+Snake,Boa,,,Green Anaconda,,,Green Anaconda  ,Eunectes murinus,E.murinus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,Boinae,,Eunectes,,murinus,,,,Snake > Boa,Eunectes > murinus,"Green Anaconda
+ > Eunectes murinus",SNBOA,GRANA,,,,,,,,,236,eunectes murinus,6GYDR,species,,6GYDR,
+Snake,Boa,,,Yellow Anaconda,Paraguayan Anaconda,,Yellow Anaconda Paraguayan Anaconda ,Eunectes notaeus,E. notaeus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,Boinae,,Eunectes,,notaeus,,,,Snake > Boa,Eunectes > notaeus,"Yellow Anaconda
+ > Eunectes notaeus",SNBOA,YEANA,,,,,,,,,237,eunectes notaeus,6GYDP,species,,6GYDP,
+Snake,Boa,,,Anaconda,,,Anaconda  ,Eunectes sp*,E. sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,Boinae,,Eunectes,,sp*,,,,Snake > Boa,Eunectes > sp*,"Anaconda
+ > Eunectes sp*",SNBOA,ANACO,,,,,,,,,238,eunectes sp,4G38,Genus Matched. Species not found,eunectes sp,4G38,
+Snake,Boa,,,Kenyan Sand Boa,,,Kenyan Sand Boa  ,Gongylophis colubrinus,G. colubrinus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Boidae,,,Gongylophis,,colubrinus,,,,Snake > Boa,Gongylophis > colubrinus,"Kenyan Sand Boa
+ > Gongylophis colubrinus",SNBOA,KESNB,,,,,,,,,239,gongylophis colubrinus,8HZDC,Genus Matched. Species not found,gongylophis colubrinus,8HZDC,
+Snake,Colubrid,,,Mangrove Cat Snake,,,Mangrove Cat Snake  ,Boiga dendrophila,B. dendrophila,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Boiga,,dendrophila,,,,Snake > Colubrid,Boiga > dendrophila,"Mangrove Cat Snake
+ > Boiga dendrophila",SNCOL,MGCAT,,,,,,,,,240,boiga dendrophila,5WNGW,species,,5WNGW,
+Snake,Colubrid,,,Radiated Rat Snake,Copper headed Racer,Copper headed trinket snake,Radiated Rat Snake Copper headed Racer Copper headed trinket snake,Coelognathus radiatus,C. radiatus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Coelognathus,,radiatus,,,,Snake > Colubrid,Coelognathus > radiatus,"Radiated Rat Snake
+ > Coelognathus radiatus",SNCOL,RARAT,,,,,,,,,241,coelognathus radiatus,WRWM,species,,WRWM,
+Snake,Colubrid,,,Indian Trinket Snake,Trinket Snake,,Indian Trinket Snake Trinket Snake ,Coelognathus helena,C. helena,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Coelognathus,,radiatus,,,,Snake > Colubrid,Coelognathus > radiatus,"Indian Trinket Snake
+ > Coelognathus helena",SNCOL,INTRK,,,,,,,,,242,coelognathus helena,WRWF,species,,WRWF,
+Snake,Colubrid,,,Russian Rat Snake,Manchurian Black Racer / water snake,Amur rat snake,Russian Rat Snake Manchurian Black Racer / water snake Amur rat snake,Elaphe schrenckii,E. schrenckii,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Elaphe,,schrenckii,,,,Snake > Colubrid,Elaphe > schrenckii,"Russian Rat Snake
+ > Elaphe schrenckii",SNCOL,RURAT,,,,,,,,,243,elaphe schrenckii,38YMM,species,,38YMM,
+Snake,Colubrid,,,Red-Tailed Racer,red-tailed green ratsnake,,Red-Tailed Racer red-tailed green ratsnake ,Gonyosoma oxycephalum,G. oxycephalum,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Gonyosoma,,oxycephalum,,,,Snake > Colubrid,Gonyosoma > oxycephalum,"Red-Tailed Racer
+ > Gonyosoma oxycephalum",SNCOL,RTRCR,,,,,,,,,244,gonyosoma oxycephalum,3GZWS,species,,3GZWS,
+Snake,Colubrid,,,Rhino Ratsnake,Rhinoceros ratsnake,,Rhino Ratsnake Rhinoceros ratsnake ,Gonyosoma boulengeri,G. boulengeri,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Gonyosoma,,boulengeri,,,,Snake > Colubrid,Gonyosoma > boulengeri,"Rhino Ratsnake
+ > Gonyosoma boulengeri",SNCOL,RHRAT,,,,,,,,,245,gonyosoma boulengeri,6L2GC,species,,6L2GC,
+Snake,Colubrid,,,Hognose Snake,,,Hognose Snake  ,Heterodon sp*,H. sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,sp,,,,Snake > Colubrid,Heterodon > sp,"Hognose Snake
+ > Heterodon sp*",SNCOL,HGNOS,,,,,,,,,246,heterodon sp,9JKMY,Genus Matched. Species not found,heterodon sp,9JKMY,
+Snake,Colubrid,,,Mexican hognose snake,,,Mexican hognose snake  ,Heterodon kennerlyi,H. kennerlyi,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,kennerlyi,,,,Snake > Colubrid,Heterodon > kennerlyi,"Mexican hognose snake
+ > Heterodon kennerlyi",SNCOL,MXHNS,,,,,,,,,247,heterodon kennerlyi,3L994,species,,3L994,
+Snake,Colubrid,,,Gloyd's hognose snake,,,Gloyd's hognose snake  ,Heterodon nasicus gloydi,H. nasicus gloydi,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,nasicus,gloydi,,,Snake > Colubrid,"Heterodon > nasicus > 
+ > gloydi","Gloyd's hognose snake
+ > Heterodon nasicus gloydi",SNCOL,GLHNS,,,,,,,,,248,heterodon nasicus gloydi,89HW4,subspecies,,89HW4,
+Snake,Colubrid,,,Western hognose snake,,,Western hognose snake  ,Heterodon nasicus,H. nasicus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,nasicus,,,,Snake > Colubrid,Heterodon > nasicus,"Western hognose snake
+ > Heterodon nasicus",SNCOL,WSHNS,,,,,,,,,249,heterodon nasicus,3L997,species,,3L997,
+Snake,Colubrid,,,Eastern hognose snake,,,Eastern hognose snake  ,Heterodon platirhinos,H. platirhinos,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,platirhinos,,,,Snake > Colubrid,Heterodon > platirhinos,"Eastern hognose snake
+ > Heterodon platirhinos",SNCOL,EAHNS,,,,,,,,,250,heterodon platirhinos,3L99B,species,,3L99B,
+Snake,Colubrid,,,Southern hognose snake,,,Southern hognose snake  ,Heterodon simus,H. simus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Heterodon,,simus,,,,Snake > Colubrid,Heterodon > simus,"Southern hognose snake
+ > Heterodon simus",SNCOL,SOHNS,,,,,,,,,251,heterodon simus,3L99H,species,,3L99H,
+Snake,Colubrid,,,Tricolour Hognose Snake,,,Tricolour Hognose Snake  ,Xenodon pulcher,X. pulcher,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Dipsadinae,,Xenodon,,pulcher,,,,Snake > Colubrid,Xenodon > pulcher,"Tricolour Hognose Snake
+ > Xenodon pulcher",SNCOL,TCHNS,,,,,,,,,252,xenodon pulcher,7G8HM,species,,7G8HM,
+Snake,Colubrid,,,California Kingsnake,,,California Kingsnake  ,Lampropeltis californiae,L.californiae,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,californiae,,,,Snake > Colubrid,Lampropeltis > californiae,"California Kingsnake
+ > Lampropeltis californiae",SNCOL,CALKI,,,,,,,,,253,lampropeltis californiae,3S4VF,species,,3S4VF,
+Snake,Colubrid,,,Speckled Kingsnake,,,Speckled Kingsnake  ,Lampropeltis holbrooki,L.californiae,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,holbrooki,,,,Snake > Colubrid,Lampropeltis > holbrooki,"Speckled Kingsnake
+ > Lampropeltis holbrooki",SNCOL,SPKKI,,,,,,,,,254,lampropeltis holbrooki,3S4VR,species,,3S4VR,
+Snake,Colubrid,,,Mexican Black Kingsnake,,,Mexican Black Kingsnake  ,Lampropeltis getula nigrita,L.getula nigrita,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,getula,nigrita,,,Snake > Colubrid,"Lampropeltis > getula > 
+ > nigrita","Mexican Black Kingsnake
+ > Lampropeltis getula nigrita",SNCOL,MBBKK,,,,,,,,,255,lampropeltis getula nigrita,5J8ZR,subspecies,,5J8ZR,
+Snake,Colubrid,,,Gray-Banded Kingsnake,Davis Mountain Kingsnake,,Gray-Banded Kingsnake Davis Mountain Kingsnake ,Lampropeltis alterna,L. alterna,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,alterna,,,,Snake > Colubrid,Lampropeltis > alterna,"Gray-Banded Kingsnake
+ > Lampropeltis alterna",SNCOL,GRBKI,,,,,,,,,256,lampropeltis alterna,3S4V8,species,,3S4V8,
+Snake,Colubrid,,,Kingsnake,,,Kingsnake  ,Lampropeltis sp*,L.sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,sp*,,,,Snake > Colubrid,Lampropeltis > sp*,"Kingsnake
+ > Lampropeltis sp*",SNCOL,KINGS,,,,,,,,,257,lampropeltis sp,62XJG,Genus Matched. Species not found,lampropeltis sp,62XJG,
+Snake,Colubrid,,,Milk Snake,,,Milk Snake  ,Lampropeltis triangulum sp*,L.triangulum sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lampropeltis,,triangulum,sp*,,,Snake > Colubrid,"Lampropeltis > triangulum > 
+ > sp*","Milk Snake
+ > Lampropeltis triangulum sp*",SNCOL,MILKS,,,,,,,,,258,lampropeltis triangulum sp,3S4WF,species,,3S4WF,
+Snake,Colubrid,,,Indian Wolf Snake,,,Indian Wolf Snake  ,Lycodon sp*,L.sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Lycodon,,sp*,,,,Snake > Colubrid,Lycodon > sp*,"Indian Wolf Snake
+ > Lycodon sp*",SNCOL,INWWS,,,,,,,,,259,lycodon sp,5HKD,Genus Matched. Species not found,lycodon sp,5HKD,
+Snake,Colubrid,,,Commok Kukri Snake,Banded Kukri snake,,Commok Kukri Snake Banded Kukri snake ,Oligodon arnensis,O. arnensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oligodon,,arnensis,,,,Snake > Colubrid,Oligodon > arnensis,"Commok Kukri Snake
+ > Oligodon arnensis",SNCOL,CKUKS,,,,,,,,,260,oligodon arnensis,74KQX,species,,74KQX,
+Snake,Colubrid,,,Kukri Snake*,,,Kukri Snake*  ,Oligodon sp*,O. sp*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oligodon,,,,,,Snake > Colubrid,Oligodon >,"Kukri Snake*
+ > Oligodon sp*",SNCOL,KUKRI,,,,,,,,,261,oligodon sp,67NX,Genus Matched. Species not found,oligodon sp,67NX,
+Snake,Colubrid,,,Red Bamboo Rat Snake (coxi) ,Red mountain racer,Black-Banded trinket snake,Red Bamboo Rat Snake (coxi)  Red mountain racer Black-Banded trinket snake,Oreocryptophis porphyraceus coxi,O.p.coxi,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oreocryptophis,,porphyraceus,coxi,,,Snake > Colubrid,"Oreocryptophis > porphyraceus > 
+ > coxi","Red Bamboo Rat Snake (coxi) 
+ > Oreocryptophis porphyraceus coxi",SNCOL,CXBMR,,,,,,,,,262,oreocryptophis porphyraceus coxi,7HMVF,subspecies,,7HMVF,
+Snake,Colubrid,,,Red Bamboo Rat Snake (laticinctus) ,Red mountain racer,Black-Banded trinket snake,Red Bamboo Rat Snake (laticinctus)  Red mountain racer Black-Banded trinket snake,Oreocryptophis porphyraceus laticinctus,O.p.laticinctus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oreocryptophis,,porphyraceus,laticinctus,,,Snake > Colubrid,"Oreocryptophis > porphyraceus > 
+ > laticinctus","Red Bamboo Rat Snake (laticinctus) 
+ > Oreocryptophis porphyraceus laticinctus",SNCOL,LTBMR,,,,,,,,,263,oreocryptophis porphyraceus laticinctus,7HMVG,subspecies,,7HMVG,
+Snake,Colubrid,,,Red Bamboo Rat Snake (porphyraceus) ,Red mountain racer,Black-Banded trinket snake,Red Bamboo Rat Snake (porphyraceus)  Red mountain racer Black-Banded trinket snake,Oreocryptophis porphyraceus porphyraceus,O.p.porphyraceus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oreocryptophis,,porphyraceus,porphyraceus,,,Snake > Colubrid,"Oreocryptophis > porphyraceus > 
+ > porphyraceus","Red Bamboo Rat Snake (porphyraceus) 
+ > Oreocryptophis porphyraceus porphyraceus",SNCOL,PRBMR,,,,,,,,,264,oreocryptophis porphyraceus porphyraceus,7HMVH,subspecies,,7HMVH,
+Snake,Colubrid,,,Red Bamboo Rat Snake (pulchra) ,Red mountain racer,Black-Banded trinket snake,Red Bamboo Rat Snake (pulchra)  Red mountain racer Black-Banded trinket snake,Oreocryptophis porphyraceus pulchra ,O.p.pulchra,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oreocryptophis,,porphyraceus,pulchra,,,Snake > Colubrid,"Oreocryptophis > porphyraceus > 
+ > pulchra","Red Bamboo Rat Snake (pulchra) 
+ > Oreocryptophis porphyraceus pulchra",SNCOL,PLBMR,,,,,,,,,265,oreocryptophis porphyraceus pulchra,7HN7H,subspecies,,7HN7H,
+Snake,Colubrid,,,Red Bamboo Rat Snake (ssp*),Red mountain racer,Black-Banded trinket snake,Red Bamboo Rat Snake (ssp*) Red mountain racer Black-Banded trinket snake,Oreocryptophis porphyraceus ssp,O.porphyraceus ssp,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Oreocryptophis,,porphyraceus,ssp,,,Snake > Colubrid,"Oreocryptophis > porphyraceus > 
+ > ssp","Red Bamboo Rat Snake (ssp*)
+ > Oreocryptophis porphyraceus ssp",SNCOL,SPBMR,,,,,,,,,266,oreocryptophis porphyraceus ssp,74SSV,species,,74SSV,
+Snake,Colubrid,,,Corn Snake,,,Corn Snake  ,Pantherophis guttatus,P.guttatus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Pantherophis,,guttatus,,,,Snake > Colubrid,Pantherophis > guttatus,"Corn Snake
+ > Pantherophis guttatus",SNCOL,CORNS,,,,,,,,,267,pantherophis guttatus,75LTS,species,,75LTS,
+Snake,Colubrid,,,Texas Rat Snake,,,Texas Rat Snake  ,Pantherophis obsoletus lindheimeri,P. o. lindheimeri,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Pantherophis,,obsoletus,lindheimeri,,,Snake > Colubrid,"Pantherophis > obsoletus > 
+ > lindheimeri","Texas Rat Snake
+ > Pantherophis obsoletus lindheimeri",SNCOL,TXRAT,,,,,,,,,268,pantherophis obsoletus lindheimeri,4CGYF,species,,4CGYF,
+Snake,Colubrid,,,Rat Snake,,,Rat Snake  ,Pantherophis* * *,P.* *,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,Colubrinae,,Pantherophis*,,*,*,,,Snake > Colubrid,"Pantherophis* > * > 
+ > *","Rat Snake
+ > Pantherophis* * *",SNCOL,RATSN,,,,,,,,,269,pantherophis,6DBX,genus,,6DBX,
+Snake,Colubrid,,,African House Snake,Brown House Snake,,African House Snake Brown House Snake ,Lamprophis fuliginosus,L.fuliginosus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Lamprophiidae,Lamprophiinae,,Lamprophis,,fuliginosus,,,,Snake > Colubrid,Lamprophis > fuliginosus,"African House Snake
+ > Lamprophis fuliginosus",SNCOL,AFHSN,,,,,,,,,270,lamprophis fuliginosus,8J72G,species,,8J72G,
+Snake,Colubrid,,,Indian Rat Snake,,,Indian Rat Snake  ,Ptyas mucosa,P. Mucosa,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Colubridae,,,Ptyas,,Mucosa,,,,Snake > Colubrid,Ptyas > Mucosa,"Indian Rat Snake
+ > Ptyas mucosa",SNCOL,INRAT,,,,,,,,,271,ptyas mucosa,4Q9PH,species,,4Q9PH,
+Snake,Elapid,,,Death Adder,,,Death Adder  ,Acanthophis sp,,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,Hydrophiinae,,Acanthophis,,sp*,,,,Snake > Elapid,Acanthophis > sp*,"Death Adder
+ > Acanthophis sp",SNELA,DTHAD,,,,,,,,,272,acanthophis sp,MBB,Genus Matched. Species not found,acanthophis sp,MBB,
+Snake,Elapid,,,Red-Headed Krait,,,Red-Headed Krait  ,Bungarus flaviceps,,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,Elapinae,,Bungarus,,flaviceps,,,,Snake > Elapid,Bungarus > flaviceps,"Red-Headed Krait
+ > Bungarus flaviceps",SNELA,RHKRT,,,,,,,,,273,bungarus flaviceps,68RYW,species,,68RYW,
+Snake,Elapid,,,Black Mamba,,,Black Mamba  ,Dendroaspis polylepis,D. polylepis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Dendroaspis,,polylepis,,,,Snake > Elapid,Dendroaspis > polylepis,"Black Mamba
+ > Dendroaspis polylepis",SNELA,BLMAM,,,,,,,,,274,dendroaspis polylepis,34M6Q,species,,34M6Q,
+Snake,Elapid,,,Monocled Cobra,,,Monocled Cobra  ,Naja kaouthia,N.kaouthia,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,kaouthia,,,,Snake > Elapid,Naja > kaouthia,"Monocled Cobra
+ > Naja kaouthia",SNELA,MONCO,,,,,,,,,275,naja kaouthia,45KX4,species,,45KX4,
+Snake,Elapid,,,Monocled Cobra - Suphan,,,Monocled Cobra - Suphan  ,Naja kaouthia suphanensis,N.kaouthia suphanensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,kaouthia,suphanensis,,,Snake > Elapid,"Naja > kaouthia > 
+ > suphanensis","Monocled Cobra - Suphan
+ > Naja kaouthia suphanensis",SNELA,SUMCO,,,,,,,,,276,naja kaouthia suphanensis,7KCF2,subspecies,,7KCF2,
+Snake,Elapid,,,Forest Cobra,Black Cobra,Black and White-Lipped Cobra,Forest Cobra Black Cobra Black and White-Lipped Cobra,Naja melanoleuca,N. melanoleuca,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,Boulengerina,melanoleuca,,,,Snake > Elapid,Naja > melanoleuca,"Forest Cobra
+ > Naja melanoleuca",SNELA,FORCO,,,,,,,,,277,naja melanoleuca,45KXC,species,,45KXC,
+Snake,Elapid,,,Spectacled Cobra,,,Spectacled Cobra  ,Naja naja,N.naja,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,naja,,,,Snake > Elapid,Naja > naja,"Spectacled Cobra
+ > Naja naja",SNELA,SPECO,,,,,,,,,278,naja naja,45KXG,species,,45KXG,
+Snake,Elapid,,,Cape Cobra,,,Cape Cobra  ,Naja nivea,N.nivea,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,nivea,,,,Snake > Elapid,Naja > nivea,"Cape Cobra
+ > Naja nivea",SNELA,CAPCO,,,,,,,,,279,naja nivea,45KXQ,species,,45KXQ,
+Snake,Elapid,,,Red Spitting Cobra,Red head spitting cobra,,Red Spitting Cobra Red head spitting cobra ,Naja pallida,N. pallida,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,Afronaja,pallida,,,,Snake > Elapid,Naja > pallida,"Red Spitting Cobra
+ > Naja pallida",SNELA,RDSPC,,,,,,,,,280,naja pallida,45KXW,species,,45KXW,
+Snake,Elapid,,,Samar Spitting Cobra,,,Samar Spitting Cobra  ,Naja samarensis,N. samarensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,samarensis,,,,Snake > Elapid,Naja > samarensis,"Samar Spitting Cobra
+ > Naja samarensis",SNELA,SMSPC,,,,,,,,,281,naja samarensis,45KY2,species,,45KY2,
+Snake,Elapid,,,Indochinese Spitting Cobra,,,Indochinese Spitting Cobra  ,Naja siamensis,N. siamensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,Naja,,siamensis,,,,Snake > Elapid,Naja > siamensis,"Indochinese Spitting Cobra
+ > Naja siamensis",SNELA,ICSPC,,,,,,,,,282,naja siamensis,45KY4,species,,45KY4,
+Snake,Elapid,,,King Cobra,,,King Cobra  ,Ophiophagus hannah,O. hannah,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,Elapinae,,Ophiophagus,,hannah,,,,Snake > Elapid,Ophiophagus > hannah,"King Cobra
+ > Ophiophagus hannah",SNELA,KINGC,,,,,,,,,283,ophiophagus hannah,74Q7K,species,,74Q7K,
+Snake,Elapid,,,Egyptian Spitting Cobra*,,,Egyptian Spitting Cobra*  ,*,,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Elapidae,,,,,,,,,Snake > Elapid,>,"Egyptian Spitting Cobra*
+ > *",SNELA,EGSPC,,,,,,,,,284,,,name not found,,,
+Snake,Hybrid,,,Anaconda Hybrid (Green x Yellow Anaconda),,,Anaconda Hybrid (Green x Yellow Anaconda)  ,hybrid,*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Hybrid,*,,Hybrid,*,*,*,,,Snake > Hybrid,"Hybrid > * > 
+ > *","Anaconda Hybrid (Green x Yellow Anaconda)
+ > hybrid",SNHYB,ANACX,,,,,,,,,285,hybrid,,genus not found,hybrid,,
+Snake,Hybrid,,,Bat Eater - (Burmese x Reticulated Python),,,Bat Eater - (Burmese x Reticulated Python)  ,hybrid,*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Hybrid,*,,Hybrid,*,*,*,,,Snake > Hybrid,"Hybrid > * > 
+ > *","Bat Eater - (Burmese x Reticulated Python)
+ > hybrid",SNHYB,BURMX,,,,,,,,,286,hybrid,,genus not found,hybrid,,
+Snake,Hybrid,,,Carpondro Python (Carpet x Green Tree Python),,,Carpondro Python (Carpet x Green Tree Python)  ,hybrid,*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Hybrid,*,,Hybrid,*,*,*,,,Snake > Hybrid,"Hybrid > * > 
+ > *","Carpondro Python (Carpet x Green Tree Python)
+ > hybrid",SNHYB,CARPX,,,,,,,,,287,hybrid,,genus not found,hybrid,,
+Snake,Hybrid,,,Kingsnake x Milk snake,,,Kingsnake x Milk snake  ,hybrid,*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Hybrid,*,,Hybrid,*,*,*,,,Snake > Hybrid,"Hybrid > * > 
+ > *","Kingsnake x Milk snake
+ > hybrid",SNHYB,KINGX,,,,,,,,,288,hybrid,,genus not found,hybrid,,
+Snake,Python,,,Black-Headed Python,,,Black-Headed Python  ,Aspidites melanocephalus,A. melanocephalus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Aspidites,,melanocephalus,,,,Snake > Python,Aspidites > melanocephalus,"Black-Headed Python
+ > Aspidites melanocephalus",SNPYT,BKHPY,,,,,,,,,289,aspidites melanocephalus,5W59Q,species,,5W59Q,
+Snake,Python,,,White Lipped Python,,,White Lipped Python  ,Leiopython albertisii,L.albertisii,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Leiopython,,albertisii,,,,Snake > Python,Leiopython > albertisii,"White Lipped Python
+ > Leiopython albertisii",SNPYT,WHLPY,,,,,,,,,290,leiopython albertisii,88HXK,species,,88HXK,
+Snake,Python,,,Savu Python,,,Savu Python  ,Liasis mackloti savuensis,L.mackloti savuensis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Liasis,,mackloti,savuensis,,,Snake > Python,"Liasis > mackloti > 
+ > savuensis","Savu Python
+ > Liasis mackloti savuensis",SNPYT,SAVPY,,,,,,,,,291,liasis mackloti savuensis,7GZNB,subspecies,,7GZNB,
+Snake,Python,,,Reticulated Python,,,Reticulated Python  ,Malayopython reticulatus,M.reticulatus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Malayopython,,reticulatus,,,,Snake > Python,Malayopython > reticulatus,"Reticulated Python
+ > Malayopython reticulatus",SNPYT,RETPY,,,,,,,,,292,malayopython reticulatus,3XMDC,species,,3XMDC,
+Snake,Python,,,Carpet Python,,,Carpet Python  ,Morelia spilota,M.spilota,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Morelia,,spilota,,,,Snake > Python,Morelia > spilota,"Carpet Python
+ > Morelia spilota",SNPYT,CARPY,,,,,,,,,293,morelia spilota,6RPMC,species,,6RPMC,
+Snake,Python,,,Green Tree Python,,,Green Tree Python  ,Morelia viridis,M.viridis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Morelia,,viridis,,,,Snake > Python,Morelia > viridis,"Green Tree Python
+ > Morelia viridis",SNPYT,GRTPY,,,,,,,,,294,morelia viridis,44CWG,species,,44CWG,
+Snake,Python,,,Burmese Python,,,Burmese Python  ,Python bivittatus,P.bivittatus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Python,,bivittatus,,,,Snake > Python,Python > bivittatus,"Burmese Python
+ > Python bivittatus",SNPYT,BURPY,,,,,,,,,295,python bivittatus,4QY48,species,,4QY48,
+Snake,Python,,,Blood Python,,,Blood Python  ,Python brongersmai,P.brongersmai,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Python,,breitensteini,,,,Snake > Python,Python > breitensteini,"Blood Python
+ > Python brongersmai",SNPYT,BLOPY,,,,,,,,,296,python brongersmai,78Q68,species,,78Q68,
+Snake,Python,,,Short-Tailed Python ,Borneo Python,Borneo short tailed python,Short-Tailed Python  Borneo Python Borneo short tailed python,Python breitensteini,P. breitensteini,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Python,,brongersmai,,,,Snake > Python,Python > brongersmai,"Short-Tailed Python 
+ > Python breitensteini",SNPYT,SHTPY,,,,,,,,,297,python breitensteini,4QY4D,species,,4QY4D,
+Snake,Python,,,Rock Python **,,,Rock Python **  ,Python molurus,P.molurus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Python,,molurus,,,,Snake > Python,Python > molurus,"Rock Python **
+ > Python molurus",SNPYT,IROPY,,,,,,,,,298,python molurus,4QY4N,species,,4QY4N,
+Snake,Python,,,Ball Python,,,Ball Python  ,Python regius,P.regius,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Python,,regius,,,,Snake > Python,Python > regius,"Ball Python
+ > Python regius",SNPYT,BALPY,,,,,,,,,299,python regius,7925W,species,,7925W,
+Snake,Python,,,Scrub Python,Amethystine python,,Scrub Python Amethystine python ,Simalia amethistina,S.amethistina,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Simalia,,amethistina,,,,Snake > Python,Simalia > amethistina,"Scrub Python
+ > Simalia amethistina",SNPYT,SCRPY,,,,,,,,,300,simalia amethistina,6YPQ7,species,,6YPQ7,
+Snake,Python,,,Boelen's Python,,,Boelen's Python  ,Simalia boeleni,S.boeleni,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Simalia,,boeleni,,,,Snake > Python,Simalia > boeleni,"Boelen's Python
+ > Simalia boeleni",SNPYT,BOEPY,,,,,,,,,301,simalia boeleni,6YQ27,species,,6YQ27,
+Snake,Python,,,Tanimbar Python,,,Tanimbar Python  ,Simalia nauta,S.nauta,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Pythonidae,,,Simalia,,nauta,,,,Snake > Python,Simalia > nauta,"Tanimbar Python
+ > Simalia nauta",SNPYT,TANPY,,,,,,,,,302,simalia nauta,6YPQ4,species,,6YPQ4,
+,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,303,,,name not found,,,
+Snake,Viper,,,Copperhead,,,Copperhead  ,Agkistrodon contortrix*,A.contortrix*,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Agkistrodon,,contortrix*,,,,Snake > Viper,Agkistrodon > contortrix*,"Copperhead
+ > Agkistrodon contortrix*",SNVIP,COPHD,,,,,,,,,304,agkistrodon contortrix,89FCW,species,,89FCW,
+Snake,Viper,,,Gaboon Viper,,,Gaboon Viper  ,Bitis gabonica,B.gabonica,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Viperinae,,Bitis,,gabonica,,,,Snake > Viper,Bitis > gabonica,"Gaboon Viper
+ > Bitis gabonica",SNVIP,GABVP,,,,,,,,,305,bitis gabonica,LXL7,species,,LXL7,
+Snake,Viper,,,Desert horned viper,,,Desert horned viper  ,Cerastes cerastes,C. cerastes,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Viperinae,,Cerastes,,cerastes,,,,Snake > Viper,Cerastes > cerastes,"Desert horned viper
+ > Cerastes cerastes",SNVIP,DHOVP,,,,,,,,,306,cerastes cerastes,SJXC,species,,SJXC,
+Snake,Viper,,,Saharan sand viper,,,Saharan sand viper  ,Cerastes vipera,C. vipera,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Viperinae,,Cerastes,,vipera,,,,Snake > Viper,Cerastes > vipera,"Saharan sand viper
+ > Cerastes vipera",SNVIP,SSNVP,,,,,,,,,307,cerastes vipera,SJXV,species,,SJXV,
+Snake,Viper,,,Western Diamondback Rattlesnake,,,Western Diamondback Rattlesnake  ,Crotalus atrox,C.atrox,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Crotalus,,atrox,,,,Snake > Viper,Crotalus > atrox,"Western Diamondback Rattlesnake
+ > Crotalus atrox",SNVIP,WDRTL,,,,,,,,,308,crotalus atrox,8FRP3,species,,8FRP3,
+Snake,Viper,,,White Lipped Pit Viper,,,White Lipped Pit Viper  ,Trimeresurus albolaris,T.albolaris,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Trimeresurus,,albolaris,,,,Snake > Viper,Trimeresurus > albolaris,"White Lipped Pit Viper
+ > Trimeresurus albolaris",SNVIP,WLPVP,,,,,,,,,309,trimeresurus albolaris,8GQFV,Genus Matched. Species not found,trimeresurus albolaris,8GQFV,
+Snake,Viper,,,White Lipped Pit Viper (Sunda Island),,,White Lipped Pit Viper (Sunda Island)  ,Trimeresurus insularis,T.insularis,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Trimeresurus,,insularis,,,,Snake > Viper,Trimeresurus > insularis,"White Lipped Pit Viper (Sunda Island)
+ > Trimeresurus insularis",SNVIP,SWLPV,,,,,,,,,310,trimeresurus insularis,7D5ML,species,,7D5ML,
+Snake,Viper,,,Mangrove pit viper,mangrove viper,Shore viper,Mangrove pit viper mangrove viper Shore viper,Trimeresurus purpureomaculatus,T.purpureomaculatus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Trimeresurus,,purpureomaculatus,,,,Snake > Viper,Trimeresurus > purpureomaculatus,"Mangrove pit viper
+ > Trimeresurus purpureomaculatus",SNVIP,MNGVP,,,,,,,,,311,trimeresurus purpureomaculatus,7CTPM,species,,7CTPM,
+Snake,Viper,,,Broad-Banded Pit Viper,broad-banded temple pitviper,,Broad-Banded Pit Viper broad-banded temple pitviper ,"Tropidolaemus laticinctus
+",T.laticinctus,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Tropidolaemus,,laticinctus,,,,Snake > Viper,Tropidolaemus > laticinctus,"Broad-Banded Pit Viper
+ > Tropidolaemus laticinctus",SNVIP,BROVP,,,,,,,,,312,tropidolaemus laticinctus,7CX26,species,,7CX26,
+Snake,Viper,,,Wagler's Pit Viper,,,Wagler's Pit Viper  ,Tropidolaemus wagleri,T. wagleri,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Viperidae,Crotalinae,,Tropidolaemus,,wagleri,,,,Snake > Viper,Tropidolaemus > wagleri,"Wagler's Pit Viper
+ > Tropidolaemus wagleri",SNVIP,WAGVP,,,,,,,,,313,tropidolaemus wagleri,59BSH,species,,59BSH,
+Snake,Viper,,,Pit Viper *,,,Pit Viper *  ,,,,,,,,,,,,,,,,,,,,Snake > Viper,>,"Pit Viper *
+ >",SNVIP,PITVP,,,,,,,,,314,,,name not found,,,
+Snake,Water snake,,,Tentacled Snake,,,Tentacled Snake  ,Erpeton tentaculatum,E. tentaculatum,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Homalopsidae,,,Erpeton,,buccata,,,,Snake > Water snake,Erpeton > buccata,"Tentacled Snake
+ > Erpeton tentaculatum",SNWAT,TNTSN,,,,,,,,,315,erpeton tentaculatum,3B9FS,species,,3B9FS,
+Snake,Water snake,,,Puff-Faced Water Snake,,,Puff-Faced Water Snake  ,Homalopsis buccata,H. buccata,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Homalopsidae,,,Homalopsis,,buccata,,,,Snake > Water snake,Homalopsis > buccata,"Puff-Faced Water Snake
+ > Homalopsis buccata",SNWAT,PFFWS,,,,,,,,,316,homalopsis buccata,3MDTY,species,,3MDTY,
+Snake,Water snake,,,Rice Paddy Snake,plumbeous water snake,orange bellied water snake,Rice Paddy Snake plumbeous water snake orange bellied water snake,Hypsiscopus plumbea,H. plumbea,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Homalopsidae,,,Hypsiscopus,,plumbea,,,,Snake > Water snake,Hypsiscopus > plumbea,"Rice Paddy Snake
+ > Hypsiscopus plumbea",SNWAT,RCPWS,,,,,,,,,317,hypsiscopus plumbea,6MT3P,species,,6MT3P,
+Snake,Xenoleptis,,,Sunbeam Snake,,,Sunbeam Snake  ,Xenopeltis unicolor,X. unicolor,Animalia,Chordata,Reptilia,Squamata,,,Serpentes,,Xenopeltidae,,,Xenopeltis,,unicolor,,,,Snake > Xenoleptis,Xenopeltis > unicolor,"Sunbeam Snake
+ > Xenopeltis unicolor",SNXEN,SUNBM,,,,,,,,,318,xenopeltis unicolor,7G7VF,species,,7G7VF,
+User,,,,-,,,-  ,,,,,,,,,,,,,,,,,,,,User >,>,"-
+ >",US,,,,,,,,,,319,,,name not found,,,
+User,,,,*,,,*  ,,,,,,,,,,,,,,,,,,,,User >,>,"*
+ >",US,,,,,,,,,,320,,,name not found,,,
+User,,,,Bird,,,Bird  ,,,,,,,,,,,,,,,,,,,,User >,>,"Bird
+ >",US,,,,,,,,,,321,,,name not found,,,
+User,,,,Bird or Mammal,,,Bird or Mammal  ,,,,,,,,,,,,,,,,,,,,User >,>,"Bird or Mammal
+ >",US,,,,,,,,,,322,,,name not found,,,
+User,,,,Check,,,Check  ,,,,,,,,,,,,,,,,,,,,User >,>,"Check
+ >",US,,,,,,,,,,323,,,name not found,,,
+User,,,,Chelonian,,,Chelonian  ,,,,,,,,,,,,,,,,,,,,User >,>,"Chelonian
+ >",US,,,,,,,,,,324,,,name not found,,,
+User,,,,Croc*,,,Croc*  ,,,,,,,,,,,,,,,,,,,,User >,>,"Croc*
+ >",US,,,,,,,,,,325,,,name not found,,,
+User,,,,Empty,,,Empty  ,,,,,,,,,,,,,,,,,,,,User >,>,"Empty
+ >",US,,,,,,,,,,326,,,name not found,,,
+User,,,,Empty Slot,,,Empty Slot  ,,,,,,,,,,,,,,,,,,,,User >,>,"Empty Slot
+ >",US,,,,,,,,,,327,,,name not found,,,
+User,,,,Mammal,,,Mammal  ,,,,,,,,,,,,,,,,,,,,User >,>,"Mammal
+ >",US,,,,,,,,,,328,,,name not found,,,
+User,,,,Other,,,Other  ,,,,,,,,,,,,,,,,,,,,User >,>,"Other
+ >",US,,,,,,,,,,329,,,name not found,,,
+User,,,,Rennovation,,,Rennovation  ,,,,,,,,,,,,,,,,,,,,User >,>,"Rennovation
+ >",US,,,,,,,,,,330,,,name not found,,,
+User,,,,Reserved,,,Reserved  ,,,,,,,,,,,,,,,,,,,,User >,>,"Reserved
+ >",US,,,,,,,,,,331,,,name not found,,,
+User,,,,Rodent,,,Rodent  ,,,,,,,,,,,,,,,,,,,,User >,>,"Rodent
+ >",US,,,,,,,,,,332,,,name not found,,,
+User,,,,Animal,,,Animal  ,,,,,,,,,,,,,,,,,,,,User >,>,"Animal
+ >",US,,,,,,,,,,333,,,name not found,,,
+User,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,334,,,name not found,,,
+User,,,,Under construction,,,Under construction  ,,,,,,,,,,,,,,,,,,,,User >,>,"Under construction
+ >",US,,,,,,,,,,335,,,name not found,,,
+User,,,,Unkown,,,Unkown  ,,,,,,,,,,,,,,,,,,,,User >,>,"Unkown
+ >",US,,,,,,,,,,336,,,name not found,,,
+User,,,,Unusable,,,Unusable  ,,,,,,,,,,,,,,,,,,,,User >,>,"Unusable
+ >",US,,,,,,,,,,337,,,name not found,,,
+,,,,Dummy,,,Dummy  ,,,,,,,,,,,,,,,,,,,,>,>,"Dummy
+ >",,,,,,,,,,,338,,,name not found,,,
+,,,,,,,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,339,,,name not found,,,
